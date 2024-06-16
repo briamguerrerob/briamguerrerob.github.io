@@ -81,7 +81,7 @@ yandex_site_verification :
 
 # Site Author
 author:
-  name             : "Aarushi Kalra"
+  name             : "Briam Guerrero"
   avatar           : "profile.jpeg"
   bio              : "Economics MRes student at Paris School of Economics | BSc Econ '19 and MSc Applied Math '23 (INTEC)"
   location         : "Paris, France"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "GuerreroBatista"
+  twitter          :
   vine             :
   weibo            :
   xing             :
