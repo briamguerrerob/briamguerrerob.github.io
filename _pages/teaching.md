@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Teaching Assistantship
 ### Econometrics I and II
 ECO336 and ECO337 - Santo Domingo Institute of Technology (INTEC) (2017 - 2020)
 
