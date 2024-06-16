@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-You can find my CV [here](https://briamguerrerob.github.io/briamguerrerob.github.io//files/cv_eng.pdf)
+You can find my CV [here](https://briamguerrerob.github.io//files/cv_eng.pdf)
 
 {% include base_path %}
