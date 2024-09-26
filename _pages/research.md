@@ -16,7 +16,7 @@ My research interests are Applied Econometrics, Applied Microeconomics, Developm
 
 #### [Vulnerabilities of the Pension and Retirement Program of the Dominican Educational System](https://www.educa.org.do/wp-content/uploads/2017/07/Nota-de-Trabajo-No.-34.pdf) <sub> Joint work with Marygracia Aquino <sub>
 
-[comment]: <>  [The controlled choice design and private paternalism in pawnshop borrowing.](https://isaacmeza.github.io/personal//files/controlled_choice.pdf) <sub> Joint work with Francis DiTraglia, Craig McIntosh, Enrique Seira Bejarano and Joyce Sadka <sub>
+#### [Hamiltonian of the Black-Scholes-Merton equation]([https://www.educa.org.do/wp-content/uploads/2017/07/Nota-de-Trabajo-No.-34.pdf](https://www.researchgate.net/publication/376391779_Hamiltonian_of_the_Black-Scholes-Merton_equation)) <sub> Joint work with Primitivo Acosta-Humánez, Omar Bairan, Jose Garcia <sub>
  
 ## Thesis
 
