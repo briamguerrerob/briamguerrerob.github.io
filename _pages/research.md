@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research interests are Applied Econometrics, Applied Microeconomics, Development as well as Machine Learning Methods in Causal Inference.
+My research interests are Labor Economics, Development Economics and Applied Econometrics.
 
 
 ## Research Assistantships work
