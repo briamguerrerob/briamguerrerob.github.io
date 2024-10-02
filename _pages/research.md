@@ -14,7 +14,7 @@ My research interests are Labor Economics, Development Economics and Applied Eco
 
 ## Working papers
 
-#### [Vulnerabilities of the Pension and Retirement Program of the Dominican Educational System](https://www.educa.org.do/wp-content/uploads/2017/07/Nota-de-Trabajo-No.-34.pdf) <sub> Joint work with Marygracia Aquino <sub>
+#### [Vulnerabilities of the Pension and Retirement Program of the Dominican Educational System](https://educa.org.do/2020/02/10/nota-de-trabajo-34-vulnerabilidades-del-programa-de-pensiones-y-jubilaciones-del-sistema-educativo-dominicano/) <sub> Joint work with Marygracia Aquino <sub>
 
 #### [Hamiltonian of the Black-Scholes-Merton equation](https://www.researchgate.net/publication/376391779_Hamiltonian_of_the_Black-Scholes-Merton_equation) <sub> Joint work with Primitivo Acosta-Humánez, Omar Bairan and Jose Garcia <sub>
 
