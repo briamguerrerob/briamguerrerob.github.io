@@ -18,7 +18,7 @@ My research interests are Labor Economics, Development Economics and Applied Eco
 
 #### [Hamiltonian of the Black-Scholes-Merton equation](https://www.researchgate.net/publication/376391779_Hamiltonian_of_the_Black-Scholes-Merton_equation) <sub> Joint work with Primitivo Acosta-Humánez, Omar Bairan and Jose Garcia <sub>
 
-### Other research: [See ResearchGate profile] (https://www.researchgate.net/profile/Briam-Guerrero-2/research)
+### Other research: [See ResearchGate profile](https://www.researchgate.net/profile/Briam-Guerrero-2/research)
 
  
 ## Thesis
