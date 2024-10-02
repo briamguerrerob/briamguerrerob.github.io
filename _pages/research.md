@@ -17,6 +17,9 @@ My research interests are Labor Economics, Development Economics and Applied Eco
 #### [Vulnerabilities of the Pension and Retirement Program of the Dominican Educational System](https://www.educa.org.do/wp-content/uploads/2017/07/Nota-de-Trabajo-No.-34.pdf) <sub> Joint work with Marygracia Aquino <sub>
 
 #### [Hamiltonian of the Black-Scholes-Merton equation](https://www.researchgate.net/publication/376391779_Hamiltonian_of_the_Black-Scholes-Merton_equation) <sub> Joint work with Primitivo Acosta-Humánez, Omar Bairan and Jose Garcia <sub>
+
+### Other research: [See ResearchGate profile] (https://www.researchgate.net/profile/Briam-Guerrero-2/research)
+
  
 ## Thesis
 
