@@ -12,13 +12,16 @@ author_profile: true
 <details open>
 <summary><strong>Microeconomía I (ECO351)</strong> — Profesor titular</summary>
 
-- **Trimestre:** Noviembre 2025 - Enero 2026
+<br/>
+
+- **Trimestre:** Noviembre 2025 – Enero 2026  
 
 **Materiales del curso:**
-- 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/eco351_syllabus.pdf)
-- 🖥️ Diapositivas de clase
-- 📝 Notas de clase / apuntes técnicos
-- 📘 Prácticas y guías de ejercicios
+
+- 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/eco351_syllabus.pdf)  
+- 🖥️ Diapositivas de clase  
+- 📝 Notas de clase / apuntes técnicos  
+- 📘 Prácticas y guías de ejercicios  
 - 📊 Evaluaciones de referencia (parcial / final)
 
 </details>
@@ -28,13 +31,16 @@ author_profile: true
 <details>
 <summary><strong>Microeconomía II (ECO304)</strong> — Profesor titular</summary>
 
-**Trimestre:** Noviembre 2025 - Enero 2026
+<br/>
+
+- **Trimestre:** Noviembre 2025 – Enero 2026  
 
 **Materiales del curso:**
-- 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/eco304_syllabus.pdf)
-- 🖥️ Diapositivas de clase
-- 📝 Notas de clase / apuntes técnicos
-- 📘 Prácticas y guías de ejercicios
+
+- 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/eco304_syllabus.pdf)  
+- 🖥️ Diapositivas de clase  
+- 📝 Notas de clase / apuntes técnicos  
+- 📘 Prácticas y guías de ejercicios  
 - 📊 Evaluaciones de referencia
 
 </details>
