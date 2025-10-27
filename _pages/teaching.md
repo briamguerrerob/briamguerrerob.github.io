@@ -12,7 +12,7 @@ author_profile: true
 <details open>
 <summary><strong>Microeconomía I (ECO351)</strong> — Profesor titular</summary>
 
-- **Semestre:** [Añadir semestre/año aquí]
+- **Trimestre:** Noviembre 2025 - Enero 2026
 
 **Materiales del curso:**
 - 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/eco351_syllabus.pdf)
@@ -28,7 +28,7 @@ author_profile: true
 <details>
 <summary><strong>Microeconomía II (ECO304)</strong> — Profesor titular</summary>
 
-- **Semestre:** [Añadir semestre/año aquí]
+**Trimestre:** Noviembre 2025 - Enero 2026
 
 **Materiales del curso:**
 - 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/eco304_syllabus.pdf)
