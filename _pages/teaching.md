@@ -27,7 +27,7 @@ author_profile: true
     - 📝 Apuntes de clase
   </details>
 
-  <div style="height:0.5em;"></div>
+  <div style="height:0.35em;"></div>
 
   <details markdown="1">
     <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">📘 Prácticas y guías de ejercicios</summary>
@@ -42,6 +42,8 @@ author_profile: true
 </details>
 </div>
 
+
+<div style="height:0.5em;"></div>
 <!-- Micro II -->
 <div style="background-color:#f9fafc; border-left:4px solid #4f46e5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details markdown="1">
