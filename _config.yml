@@ -83,12 +83,12 @@ yandex_site_verification :
 author:
   name             : "Briam Guerrero"
   avatar           : "prof_website.jpeg"
-  bio              : "Economist and Mathematician | BSc Econ '19 (INTEC), MSc Applied Math '23 (INTEC), MSc Quantitative Econ '24 (PSE) and MRes Econ '25 (PSE)"
-  location         : "Santo Domingo, Dominican Republic"
+  bio              : "Economist and Mathematician | MRes Econ '25 + MSc Quantitative Econ '24 (PSE), and MSc Applied Math '23 + BSc Econ '19 (INTEC)"
+  location         : "Santo Domingo, Dom. Rep."
   employer         :
   googlescholar    : 
   email            : "bguerrerobatista@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Briam-Guerrero-2?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
