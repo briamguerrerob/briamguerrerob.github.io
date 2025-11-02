@@ -9,6 +9,7 @@ author_profile: true
 
 ## Instituto Tecnológico de Santo Domingo (INTEC)
 
+<div style="margin-top:0.5em;"></div>
 <details markdown="1">
 <summary><strong>Microeconomía I (ECO351)</strong> — Profesor adjunto</summary>
 
