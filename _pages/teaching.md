@@ -16,11 +16,15 @@ author_profile: true
 **Materiales del curso:**
 
 - 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/syllabus_micro1.pdf)  
+
 <details markdown="1">
 <summary>U.1: El análisis microeconómico y los principios en que se fundamenta</summary>
+   
    - 🖥️ Diapositivas de clase
-   - 📝 Apuntes de clase 
+   - 📝 Apuntes de clase
+
 </details>
+
 - 📘 Prácticas y guías de ejercicios  
 - 📊 Evaluaciones de referencia (parcial / final)
 
