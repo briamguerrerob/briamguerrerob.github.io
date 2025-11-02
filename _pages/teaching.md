@@ -16,7 +16,7 @@ author_profile: true
     <strong style="color:#1e40af;">Microeconomía I (ECO351)</strong> — <span style="color:#6b7280;">Profesor adjunto (2025-Q4)</span>
   </summary>
 
-  📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/syllabus_micro1.pdf)
+  📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_micro1.pdf)
 
   <div style="height:0.4em;"></div>
 
@@ -25,18 +25,22 @@ author_profile: true
 
     - 🖥️ Diapositivas de clase  
     - 📝 Apuntes de clase
+    
   </details>
 
   <div style="height:0.35em;"></div>
 
   <details markdown="1">
     <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">📘 Prácticas y guías de ejercicios</summary>
+    
   </details>
 
   <div style="height:0.35em;"></div>
 
   <details markdown="1">
+    
     <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">📊 Evaluaciones de referencia</summary>
+    
   </details>
 
 </details>
@@ -51,7 +55,7 @@ author_profile: true
     <strong style="color:#1e40af;">Microeconomía II (ECO304)</strong> — <span style="color:#6b7280;">Profesor adjunto (2025-Q4)</span>
   </summary>
 
-  📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/syllabus_micro2.pdf)
+  📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_micro2.pdf)
 
   <div style="height:0.4em;"></div>
 
