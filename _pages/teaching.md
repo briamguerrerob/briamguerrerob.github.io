@@ -37,7 +37,7 @@ author_profile: true
 
 </details>
 
-
+<br/>
 <details markdown="1">
 <summary><strong>Microeconomía II (ECO304)</strong> — Profesor adjunto</summary>
 
