@@ -27,7 +27,7 @@ author_profile: true
     - 📝 Apuntes de clase
   </details>
 
-  <div style="height:0.35em;"></div>
+  <div style="height:0.5em;"></div>
 
   <details markdown="1">
     <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">📘 Prácticas y guías de ejercicios</summary>
