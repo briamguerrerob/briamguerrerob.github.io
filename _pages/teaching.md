@@ -11,9 +11,8 @@ author_profile: true
 
 <div style="margin-top:0.5em;"></div>
 <details markdown="1">
-<summary><strong>Microeconomía I (ECO351)</strong> — Profesor adjunto</summary>
+<summary><strong>Microeconomía I (ECO351)</strong> — Profesor adjunto (2025-Q4)</summary>
 
-**Trimestre:** Noviembre 2025 – Enero 2026  
 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/syllabus_micro1.pdf)  
 
 <details markdown="1">
