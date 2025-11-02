@@ -1,3 +1,12 @@
+--- 
+layout: archive 
+title: "Teaching" 
+permalink: /teaching/ 
+author_profile: true 
+--- 
+
+{% include base_path %}
+
 ## Instituto Tecnológico de Santo Domingo (INTEC)
 
 <!-- Micro I -->
