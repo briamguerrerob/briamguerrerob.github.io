@@ -16,7 +16,8 @@ author_profile: true
 **Materiales del curso:**
 
 - 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/syllabus_micro1.pdf)  
-- U.1: El análisis microeconómico y los principios en que se fundamenta
+<details markdown="1">
+<summary>U.1: El análisis microeconómico y los principios en que se fundamenta</summary>
    - 🖥️ Diapositivas de clase
    - 📝 Apuntes de clase 
 - 📘 Prácticas y guías de ejercicios  
@@ -32,8 +33,9 @@ author_profile: true
 **Materiales del curso:**
 
 - 📄 [Syllabus / Programa](https://briamguerrerob.github.io//files/syllabus_micro2.pdf)  
-- 🖥️ Diapositivas de clase  
-- 📝 Notas de clase / apuntes técnicos  
+- U.1: Teoría de la demanda y las preferencias reveladas
+   - 🖥️ Diapositivas de clase
+   - 📝 Apuntes de clase  
 - 📘 Prácticas y guías de ejercicios  
 - 📊 Evaluaciones de referencia
 
