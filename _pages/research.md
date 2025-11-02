@@ -14,7 +14,7 @@ My research interests are Labor Economics, Development Economics and Applied Eco
 
 ## Working papers
 
-#### [Vulnerabilities of the Pension and Retirement Program of the Dominican Educational System](https://educa.org.do/2020/02/10/nota-de-trabajo-34-vulnerabilidades-del-programa-de-pensiones-y-jubilaciones-del-sistema-educativo-dominicano/) <sub> Joint work with Marygracia Aquino <sub>
+#### [Vulnerabilities of the Pension and Retirement Program of the Dominican Educational System](https://educa.org.do/wp-content/uploads/2017/07/Nota-de-Trabajo-No.-34.pdf) <sub> Joint work with Marygracia Aquino <sub>
 
 #### [Hamiltonian of the Black-Scholes-Merton equation](https://www.researchgate.net/publication/376391779_Hamiltonian_of_the_Black-Scholes-Merton_equation) <sub> Joint work with Primitivo Acosta-Humánez, Omar Bairan and Jose Garcia <sub>
 
@@ -22,6 +22,8 @@ My research interests are Labor Economics, Development Economics and Applied Eco
 
  
 ## Thesis
+
+#### Master Thesis in Economics (PSE):<sub> [The Right Skills in the Wrong Jobs: How Multidimensional Skill Mismatch Shapes Occupational Choice and Informality in Developing Countries](https://briamguerrerob.github.io/briamguerrerob.github.io//files/econ_thesis.pdf)
 
 #### Master Thesis in Applied Mathematics (in spanish):<sub> [A Predictor-Corrector Interior Point Algorithm for the Optimization of the Government Budget Revenue](https://briamguerrerob.github.io/briamguerrerob.github.io//files/econ_thesis.pdf)
 
