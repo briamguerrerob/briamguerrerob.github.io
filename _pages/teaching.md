@@ -12,17 +12,17 @@ author_profile: true
 <details>
 <summary><strong>Microeconomía I (ECO351)</strong> — Profesor titular</summary>
 
-<br/>
-
+{{ "
 - **Trimestre:** Noviembre 2025 – Enero 2026  
 
 **Materiales del curso:**
 
-- 📄 [Syllabus / Programa](https://briamguerrerob.github.io//files/syllabus_micro1.pdf)  
+- 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/syllabus_micro1.pdf)  
 - 🖥️ Diapositivas de clase  
 - 📝 Notas de clase / apuntes técnicos  
 - 📘 Prácticas y guías de ejercicios  
 - 📊 Evaluaciones de referencia (parcial / final)
+" | markdownify }}
 
 </details>
 
