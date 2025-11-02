@@ -9,7 +9,7 @@ author_profile: true
 
 ## Instituto Tecnológico de Santo Domingo (INTEC)
 
-<details open>
+<details>
 <summary><strong>Microeconomía I (ECO351)</strong> — Profesor titular</summary>
 
 <br/>
