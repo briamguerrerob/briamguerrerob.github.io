@@ -37,7 +37,7 @@ author_profile: true
 
 <div style="margin-top:0.4em;"></div>
 <div style="background-color:#f9fafc; border-left:4px solid #4f46e5; padding:1em; border-radius:10px; margin-bottom:1em;">
-<details markdown="1" open>
+<details markdown="1">
 <summary style="font-size:1.1em;"><strong style="color:#1e40af;">Microeconomía II (ECO304)</strong> — <span style="color:#6b7280;">Profesor adjunto</span></summary>
 
 **Trimestre:** Noviembre 2025 – Enero 2026  
