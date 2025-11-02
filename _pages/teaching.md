@@ -18,7 +18,7 @@ author_profile: true
 
 **Materiales del curso:**
 
-- 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/eco351_syllabus.pdf)  
+- 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/syllabus_micro1.pdf)  
 - 🖥️ Diapositivas de clase  
 - 📝 Notas de clase / apuntes técnicos  
 - 📘 Prácticas y guías de ejercicios  
@@ -37,7 +37,7 @@ author_profile: true
 
 **Materiales del curso:**
 
-- 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/eco304_syllabus.pdf)  
+- 📄 [Syllabus / Programa](https://briamguerrerob.github.io/files/syllabus_micro2.pdf)  
 - 🖥️ Diapositivas de clase  
 - 📝 Notas de clase / apuntes técnicos  
 - 📘 Prácticas y guías de ejercicios  
