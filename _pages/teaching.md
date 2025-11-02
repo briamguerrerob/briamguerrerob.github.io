@@ -28,8 +28,6 @@ author_profile: true
 <details markdown="1">
 <summary><strong>Microeconomía II (ECO304)</strong> — Profesor titular</summary>
 
-<br/>
-
 - **Trimestre:** Noviembre 2025 – Enero 2026  
 
 **Materiales del curso:**
