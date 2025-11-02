@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-## Instituto Tecnológico de Santo Domingo (INTEC)
+<h2 style="display:flex; align-items:center; gap:0.5em; color:#E41E26;">
+  <img src="/logo_intec.png" alt="INTEC logo" style="height:28px; width:auto; margin-bottom:-4px;">
+  Instituto Tecnológico de Santo Domingo (INTEC)
+</h2>
+
 
 <!-- Micro I -->
 <div style="background-color:#f9fafc; border-left:4px solid #4f46e5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
