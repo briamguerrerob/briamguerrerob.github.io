@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Briam Guerrero"
 title_separator          : "-"
 name                     : &name "Briam Guerrero"
-description              : &description "MRes student in Economics"
+description              : &description "Economist and Mathematician"
 url                      : https://briamguerrerob.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -83,8 +83,8 @@ yandex_site_verification :
 author:
   name             : "Briam Guerrero"
   avatar           : "prof2.jpg"
-  bio              : "Economics MRes student at Paris School of Economics | BSc Econ '19 and MSc Applied Math '23 (INTEC)"
-  location         : "Paris, France"
+  bio              : "Economist and Mathematician | BSc Econ '19 (INTEC), MSc Applied Math '23 (INTEC), MSc Quantitative Econ '24 (PSE) and MRes Econ '25 (PSE)"
+  location         : "Santo Domingo, Dominican Republic"
   employer         :
   googlescholar    : 
   email            : "bguerrerobatista@gmail.com"
