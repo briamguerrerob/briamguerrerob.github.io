@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <h2 style="display:flex; align-items:center; gap:0.5em; color:#E41E26;">
-  <img src="/logo_intec.png" alt="INTEC logo" style="height:28px; width:auto; margin-bottom:-4px;">
+  <img src="https://briamguerrerob.github.io//images/logo_intec.png" alt="INTEC logo" style="height:28px; width:auto; margin-bottom:-4px;">
   Instituto Tecnológico de Santo Domingo (INTEC)
 </h2>
 
