@@ -23,7 +23,7 @@ My research interests are Labor Economics, Development Economics and Applied Eco
  
 ## Thesis
 
-#### Master Thesis in Economics (PSE):<sub> [The Right Skills in the Wrong Jobs: How Multidimensional Skill Mismatch Shapes Occupational Choice and Informality in Developing Countries](https://briamguerrerob.github.io/briamguerrerob.github.io//files/econ_thesis.pdf)
+#### Master Thesis in Economics (PSE):<sub> [The Right Skills in the Wrong Jobs: How Multidimensional Skill Mismatch Shapes Occupational Choice and Informality in Developing Countries](https://www.researchgate.net/publication/397175486_The_Right_Skills_in_the_Wrong_Jobs_How_Multidimensional_Skill_Mismatch_Shapes_Occupational_Choice_and_Informality_in_Developing_Countries)
 
 #### Master Thesis in Applied Mathematics (in spanish):<sub> [A Predictor-Corrector Interior Point Algorithm for the Optimization of the Government Budget Revenue](https://www.researchgate.net/publication/384359271_A_Predictor-Corrector_Interior_Point_Algorithm_for_the_Optimization_of_the_Government_Budget_Revenue)
 
