@@ -38,7 +38,7 @@ author_profile: true
 
 </details>
 
-<div style="margin-top:0.25em;"></div>
+<div style="margin-top:0.4em;"></div>
 <details markdown="1">
 <summary><strong>Microeconomía II (ECO304)</strong> — Profesor adjunto</summary>
 
