@@ -10,7 +10,7 @@ author_profile: true
 ## Instituto Tecnológico de Santo Domingo (INTEC)
 
 <details markdown="1">
-<summary><strong>Microeconomía I (ECO351)</strong> — Profesor titular</summary>
+<summary><strong>Microeconomía I (ECO351)</strong> — Profesor adjunto</summary>
 
 - **Trimestre:** Noviembre 2025 – Enero 2026  
 
@@ -26,7 +26,7 @@ author_profile: true
 
 
 <details markdown="1">
-<summary><strong>Microeconomía II (ECO304)</strong> — Profesor titular</summary>
+<summary><strong>Microeconomía II (ECO304)</strong> — Profesor adjunto</summary>
 
 - **Trimestre:** Noviembre 2025 – Enero 2026  
 
