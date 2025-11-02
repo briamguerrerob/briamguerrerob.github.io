@@ -25,8 +25,15 @@ author_profile: true
 
 </details>
 
-- 📘 Prácticas y guías de ejercicios  
-- 📊 Evaluaciones de referencia (parcial / final)
+<details markdown="1">
+<summary>📘 Prácticas y guías de ejercicios</summary>
+
+</details>
+
+<details markdown="1">
+<summary>📊 Evaluaciones de referencia</summary>
+
+</details>
 
 </details>
 
@@ -37,11 +44,24 @@ author_profile: true
 **Trimestre:** Noviembre 2025 – Enero 2026  
 **Materiales del curso:**
 
-- 📄 [Syllabus / Programa](https://briamguerrerob.github.io//files/syllabus_micro2.pdf)  
-- U.1: Teoría de la demanda y las preferencias reveladas
+- 📄 [Syllabus / Programa](https://briamguerrerob.github.io//files/syllabus_micro2.pdf)
+
+<details markdown="1">
+<summary>U.1: Teoría de la demanda y las preferencias reveladas</summary>
+   
    - 🖥️ Diapositivas de clase
-   - 📝 Apuntes de clase  
-- 📘 Prácticas y guías de ejercicios  
-- 📊 Evaluaciones de referencia
+   - 📝 Apuntes de clase
+
+</details>
+
+<details markdown="1">
+<summary>📘 Prácticas y guías de ejercicios</summary>
+
+</details>
+
+<details markdown="1">
+<summary>📊 Evaluaciones de referencia</summary>
+
+</details>
 
 </details>
