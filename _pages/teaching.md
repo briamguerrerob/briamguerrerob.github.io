@@ -20,6 +20,7 @@ author_profile: true
 <summary>U.1: El análisis microeconómico y los principios en que se fundamenta</summary>
    - 🖥️ Diapositivas de clase
    - 📝 Apuntes de clase 
+</details>
 - 📘 Prácticas y guías de ejercicios  
 - 📊 Evaluaciones de referencia (parcial / final)
 
