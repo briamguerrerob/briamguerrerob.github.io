@@ -34,6 +34,14 @@ author_profile: true
     " | markdownify }}
   </details>
 
+    <details>
+    <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">U.2: La restricción presupuestaria</summary>
+    {{ "
+    - 🖥️ Diapositivas de clase  
+    - 📝 Apuntes de clase
+    " | markdownify }}
+  </details>
+
   <div style="height:0.35em;"></div>
 
   <details>
