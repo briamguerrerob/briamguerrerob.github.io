@@ -37,12 +37,14 @@ author_profile: true
   </details>
 
 
-  <details>
-    <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">U.2: La restricción presupuestaria</summary>
-    {{ "
-    - 🖥️ Diapositivas de clase  
-    - 📝 Apuntes de clase
-    " | markdownify }}
+  <details markdown="1">
+    <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+      U.2: La restricción presupuestaria
+    </summary>
+    
+  - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec2_sem1_micro1.pdf)
+  - 📝 Apuntes de clase
+    
   </details>
 
   <div style="height:0.35em;"></div>
