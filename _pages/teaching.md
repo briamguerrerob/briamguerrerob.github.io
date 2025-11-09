@@ -36,16 +36,17 @@ author_profile: true
     
   </details>
 
-
-  <details markdown="1">
+  <details>
     <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
-      U.2: La restricción presupuestaria
+      U.1: El análisis microeconómico y los principios en que se fundamenta
     </summary>
-    
-  - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec2_sem1_micro1.pdf)
-  - 📝 Apuntes de clase
-    
+  
+    <ul style="margin:0.5em 0 0 1.25em;">
+      <li>🖥️ <a href="https://briamguerrerob.github.io/files/lec1_sem1_micro1.pdf">Diapositivas de clase</a></li>
+      <li>📝 Apuntes de clase</li>
+    </ul>
   </details>
+
 
   <div style="height:0.35em;"></div>
 
