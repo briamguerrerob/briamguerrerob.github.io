@@ -20,22 +20,18 @@ author_profile: true
     <strong style="color:#1e40af;">Microeconomía I (ECO351)</strong> — <span style="color:#6b7280;">Profesor adjunto (2025-T4)</span>
   </summary>
 
-  {{ "
-  📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_micro1.pdf)
-  " | markdownify }}
+{{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_micro1.pdf)" | markdownify }}
 
-  <div style="height:0.4em;"></div>
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.1: El análisis microeconómico y los principios en que se fundamenta
+  </summary>
 
-  <details>
-    <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
-      U.1: El análisis microeconómico y los principios en que se fundamenta
-    </summary>
-  
-    <ul style="margin:0.5em 0 0 1.25em;">
-      <li>🖥️ <a href="https://briamguerrerob.github.io/files/lec1_sem1_micro1.pdf">Diapositivas de clase</a></li>
-      <li>📝 Apuntes de clase</li>
-    </ul>
-  </details>
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec1_sem1_micro1.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
 
   <details>
     <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
