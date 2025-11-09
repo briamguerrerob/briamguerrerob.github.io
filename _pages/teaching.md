@@ -32,7 +32,7 @@ author_profile: true
 
 </details>
 
-
+<div style="height:0.10em;"></div>
 
 <details markdown="1">
   <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
