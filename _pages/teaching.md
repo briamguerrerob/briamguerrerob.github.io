@@ -17,7 +17,7 @@ author_profile: true
 <div style="background-color:#f9fafc; border-left:4px solid #4f46e5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
   <summary style="font-size:1.1em;">
-    <strong style="color:#1e40af;">Microeconomía I (ECO351)</strong> — <span style="color:#6b7280;">Profesor adjunto (2025-Q4)</span>
+    <strong style="color:#1e40af;">Microeconomía I (ECO351)</strong> — <span style="color:#6b7280;">Profesor adjunto (2025-T4)</span>
   </summary>
 
   {{ "
@@ -59,7 +59,7 @@ author_profile: true
 <div style="background-color:#f9fafc; border-left:4px solid #4f46e5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
   <summary style="font-size:1.1em;">
-    <strong style="color:#1e40af;">Microeconomía II (ECO304)</strong> — <span style="color:#6b7280;">Profesor adjunto (2025-Q4)</span>
+    <strong style="color:#1e40af;">Microeconomía II (ECO304)</strong> — <span style="color:#6b7280;">Profesor adjunto (2025-T4)</span>
   </summary>
 
   {{ "
