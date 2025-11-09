@@ -34,7 +34,7 @@ author_profile: true
     " | markdownify }}
   </details>
 
-    <details>
+  <details>
     <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">U.2: La restricción presupuestaria</summary>
     {{ "
     - 🖥️ Diapositivas de clase  
