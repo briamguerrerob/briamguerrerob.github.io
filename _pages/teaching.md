@@ -28,11 +28,12 @@ author_profile: true
 
   <details>
     <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">U.1: El análisis microeconómico y los principios en que se fundamenta</summary>
-    {{ "
-    - 🖥️ Diapositivas de clase  
-    - 📝 Apuntes de clase
-    " | markdownify }}
+    <ul style="margin:0.4em 0 0 1.25em;">
+      <li>🖥️ <a href="{{ '/files/lec1_sem1_micro1.pdf' | relative_url }}">Diapositivas de clase</a></li>
+      <li>📝 Apuntes de clase</li>
+    </ul>
   </details>
+
 
   <details>
     <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">U.2: La restricción presupuestaria</summary>
