@@ -26,14 +26,14 @@ author_profile: true
 
   <div style="height:0.4em;"></div>
 
-  <details>
-    <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">U.1: El análisis microeconómico y los principios en que se fundamenta</summary>
-    {{ "
-    - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec1_sem1_micro1.pdf) 
-    " | markdownify }}
-    - 📝 Apuntes de clase
-    
+  <details markdown="1">
+    <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+      U.1: El análisis microeconómico y los principios en que se fundamenta
+    </summary>
+  - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec1_sem1_micro1.pdf)
+  - 📝 Apuntes de clase
   </details>
+
 
   <details>
     <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">U.2: La restricción presupuestaria</summary>
