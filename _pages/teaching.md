@@ -66,6 +66,8 @@ author_profile: true
 </details>
 </div>
 
+
+
 <!-- Micro II -->
 <div style="background-color:#f9fafc; border-left:4px solid #4f46e5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
@@ -73,19 +75,29 @@ author_profile: true
     <strong style="color:#1e40af;">Microeconomía II (ECO304)</strong> — <span style="color:#6b7280;">Profesor adjunto (2025-T4)</span>
   </summary>
 
-  {{ "
-  📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_micro2.pdf)
-  " | markdownify }}
+  {{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_micro2.pdf)" | markdownify }}
 
-  <div style="height:0.4em;"></div>
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.1.1: Teoría de la demanda
+  </summary>
 
-  <details>
-    <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">U.1: Teoría de la demanda y las preferencias reveladas</summary>
-    {{ "
-    - 🖥️ Diapositivas de clase  
-    - 📝 Apuntes de clase
-    " | markdownify }}
-  </details>
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec1_sem1_micro2.pdf)
+- 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/lec1_notes_sem1_micro1.pdf)
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.1.2: Las preferencias reveladas
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec2_sem1_micro2.pdf)
+- 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/lec2_notes_sem1_micro1.pdf)
+
+</details>
 
   <div style="height:0.35em;"></div>
 
