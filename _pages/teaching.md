@@ -83,7 +83,7 @@ author_profile: true
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec1_sem1_micro2.pdf)
-- 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/lec1_notes_sem1_micro1.pdf)
+- 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/lec1_notes_sem1_micro2.pdf)
 
 </details>
 
@@ -95,7 +95,7 @@ author_profile: true
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec2_sem1_micro2.pdf)
-- 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/lec2_notes_sem1_micro1.pdf)
+- 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/lec2_notes_sem1_micro2.pdf)
 
 </details>
 
