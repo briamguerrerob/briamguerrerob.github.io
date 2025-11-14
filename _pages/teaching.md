@@ -49,10 +49,10 @@ author_profile: true
   
 <details markdown="1">
   <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">
-    Prácticas y guías de ejercicios
+    📘 Prácticas y guías de ejercicios
   </summary>
 
-- 📘 [Práctica 1](https://briamguerrerob.github.io/files/ps1_sem2_micro1.pdf)
+- [Práctica 1](https://briamguerrerob.github.io/files/ps1_sem2_micro1.pdf)
 
 </details>
 
