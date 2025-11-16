@@ -127,6 +127,33 @@ author_profile: true
 
 </details>
 
+
+<div style="height:0.10em;"></div>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.2.1: La ecuación de Slutsky
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec3_sem2_micro2.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.2.2: Revisión de la ecuación de Slutsky y dotaciones iniciales del consumidor
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec4_sem2_micro2.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
+
+
   <div style="height:0.35em;"></div>
 
  
