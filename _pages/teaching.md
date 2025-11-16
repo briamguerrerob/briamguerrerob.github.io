@@ -52,7 +52,7 @@ author_profile: true
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec3_sem2_micro1.pdf)
-- 📝 [Apuntes de clase]
+- 📝 Apuntes de clase
 
 </details>
 
@@ -64,7 +64,7 @@ author_profile: true
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec4_sem2_micro1.pdf)
-- 📝 [Apuntes de clase]
+- 📝 Apuntes de clase
 
 </details>
 
