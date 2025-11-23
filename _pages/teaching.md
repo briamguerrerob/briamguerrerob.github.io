@@ -164,6 +164,17 @@ author_profile: true
 
 </details>
 
+<div style="height:0.10em;"></div>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.3: Elección intertemporal
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec5_and_6_sem3_micro2.pdf)
+- 📝 Apuntes de clase
+
+</details>
 
 
   <div style="height:0.35em;"></div>
