@@ -159,7 +159,7 @@ author_profile: true
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec3_sem2_micro2.pdf)
-- 📝 Apuntes de clase
+- 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/lec3_notes_sem2_micro2.pdf)
 
 </details>
 
@@ -171,7 +171,7 @@ author_profile: true
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec4_sem2_micro2.pdf)
-- 📝 Apuntes de clase
+- 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/lec4_notes_sem2_micro2.pdf)
 
 </details>
 
@@ -183,7 +183,7 @@ author_profile: true
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec5_and_6_sem3_micro2.pdf)
-- 📝 Apuntes de clase
+- 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/lec5_and_6_notes_sem3_micro2.pdf)
 
 </details>
 
@@ -193,7 +193,7 @@ author_profile: true
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec7_and_8_sem4_micro2.pdf)
-- 📝 Apuntes de clase
+- 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/lec6_and_7_notes_sem4_micro2.pdf)
 
 </details>
 
