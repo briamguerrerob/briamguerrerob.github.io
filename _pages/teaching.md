@@ -80,6 +80,17 @@ author_profile: true
 
 </details>
 
+<div style="height:0.10em;"></div>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.5: La elección del consumidor
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec7_and_8_sem4_micro1.pdf)
+- 📝 Apuntes de clase
+
+</details>
 
   <div style="height:0.35em;"></div>
   
@@ -175,6 +186,17 @@ author_profile: true
 - 📝 Apuntes de clase
 
 </details>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.4: Teoría de la empresa
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec7_and_8_sem4_micro2.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
 
 
   <div style="height:0.35em;"></div>
