@@ -100,6 +100,7 @@ author_profile: true
   </summary>
 
 - [Práctica 1](https://briamguerrerob.github.io/files/ps1_sem2_micro1.pdf)
+- [Práctica 2](https://briamguerrerob.github.io/files/ps2_sem4_micro1.pdf)
 
 </details>
 
