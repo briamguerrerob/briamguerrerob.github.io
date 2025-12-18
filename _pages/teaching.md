@@ -92,6 +92,30 @@ author_profile: true
 
 </details>
 
+<div style="height:0.10em;"></div>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.6: La demanda del consumidor
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/sem5_and_6_micro1.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.7: Las preferencias reveladas
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/sem6_and_7_micro1.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
   <div style="height:0.35em;"></div>
   
 <details markdown="1">
