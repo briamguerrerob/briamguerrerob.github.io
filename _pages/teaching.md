@@ -132,7 +132,7 @@ author_profile: true
 
 <details markdown="1">
   <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
-    U.8.2: Revisión de la ecuación de Slutsky y dotaciones iniciales del consumidor
+    U.8.2 y U.9: Revisión de la ecuación de Slutsky y dotaciones iniciales del consumidor
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/sem7_2_micro1.pdf)
