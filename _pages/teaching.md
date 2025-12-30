@@ -282,8 +282,7 @@ author_profile: true
 
 
   <div style="height:0.35em;"></div>
-
- 
+  
 <details markdown="1">
   <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">
     📘 Prácticas y guías de ejercicios
