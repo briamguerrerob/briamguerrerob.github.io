@@ -169,6 +169,8 @@ author_profile: true
 - [Proyecto final](https://briamguerrerob.github.io/files/final_project_micro1.pdf)    
 
 </details>
+
+</details>
 </div>
 
 
@@ -302,6 +304,8 @@ author_profile: true
   </summary>
 
 - [Proyecto final](https://briamguerrerob.github.io/files/final_project_micro2.pdf)    
+
+</details>
 
 </details>
 </div>
