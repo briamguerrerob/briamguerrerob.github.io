@@ -116,6 +116,34 @@ author_profile: true
 
 </details>
 
+<div style="height:0.10em;"></div>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.8.1: La ecuación de Slutsky
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/sem7_micro1.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.8.2: Revisión de la ecuación de Slutsky y dotaciones iniciales del consumidor
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/sem7_2_micro1.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+
+
   <div style="height:0.35em;"></div>
   
 <details markdown="1">
@@ -212,6 +240,8 @@ author_profile: true
 
 </details>
 
+<div style="height:0.10em;"></div>
+
 <details markdown="1">
   <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
     U.4: Teoría de la empresa
@@ -221,6 +251,8 @@ author_profile: true
 - 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/lec7_and_8_notes_sem4_micro2.pdf)
 
 </details>
+
+<div style="height:0.10em;"></div>
 
 <details markdown="1">
   <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
@@ -232,6 +264,8 @@ author_profile: true
 
 </details>
 
+<div style="height:0.10em;"></div>
+
 <details markdown="1">
   <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
     U.6: Monopolio y conducta del monopolio
@@ -241,6 +275,10 @@ author_profile: true
 - 📝 Apuntes de clase
 
 </details>
+
+<div style="height:0.10em;"></div>
+
+
 
   <div style="height:0.35em;"></div>
 
