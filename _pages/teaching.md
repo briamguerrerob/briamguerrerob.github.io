@@ -222,7 +222,25 @@ author_profile: true
 
 </details>
 
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.5: Oferta de la empresa y la industria
+  </summary>
 
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec9_and_10_sem5_and_6_micro2.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.6: Monopolio y conducta del monopolio
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec11_and_12_sem7_micro2.pdf)
+- 📝 Apuntes de clase
+
+</details>
 
   <div style="height:0.35em;"></div>
 
