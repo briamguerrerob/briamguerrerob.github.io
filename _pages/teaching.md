@@ -161,12 +161,12 @@ author_profile: true
 
   <div style="height:0.35em;"></div>
 
-  <details>
-    <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">📊 Evaluaciones de referencia</summary>
-    {{ "
-    _Material por publicar._
-    " | markdownify }}
-  </details>
+  <details markdown="1">
+    <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">
+      📊 Evaluaciones 
+    </summary>
+
+- [Proyecto final](https://briamguerrerob.github.io/files/final_project_micro1.pdf)    
 
 </details>
 </div>
