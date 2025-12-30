@@ -161,10 +161,10 @@ author_profile: true
 
   <div style="height:0.35em;"></div>
 
-  <details markdown="1">
-    <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">
-      📊 Evaluaciones 
-    </summary>
+<details markdown="1">
+  <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">
+    📊 Evaluaciones 
+  </summary>
 
 - [Proyecto final](https://briamguerrerob.github.io/files/final_project_micro1.pdf)    
 
@@ -297,10 +297,10 @@ author_profile: true
 
   <div style="height:0.35em;"></div>
 
-  <details markdown="1">
-    <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">
-      📊 Evaluaciones 
-    </summary>
+<details markdown="1">
+  <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">
+    📊 Evaluaciones 
+  </summary>
 
 - [Proyecto final](https://briamguerrerob.github.io/files/final_project_micro2.pdf)    
 
