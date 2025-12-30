@@ -234,6 +234,7 @@ author_profile: true
 
 - [Práctica 1](https://briamguerrerob.github.io/files/ps1_sem2_micro2.pdf)
 - [Práctica 2](https://briamguerrerob.github.io/files/ps2_sem4_micro2.pdf)
+- [Práctica 3](https://briamguerrerob.github.io/files/ps3_sem7_micro2.pdf)
 
 </details>
 
