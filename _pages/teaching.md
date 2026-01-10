@@ -275,7 +275,7 @@ author_profile: true
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec9_and_10_sem5_and_6_micro2.pdf)
-- 📝 Apuntes de clase
+- 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/lec9_and_10_sem5_and_6_micro2_notes.pdf)
 
 </details>
 
