@@ -281,6 +281,20 @@ author_profile: true
 
 <div style="height:0.10em;"></div>
 
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.7: Oligopolio e intercambio
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/sem_8_micro2_slides.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+
+
 
 
   <div style="height:0.35em;"></div>
