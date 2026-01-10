@@ -287,7 +287,7 @@ author_profile: true
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec11_and_12_sem7_micro2.pdf)
-- 📝 Apuntes de clase
+- 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/lec11_and_12_sem7_micro2_notes.pdf)
 
 </details>
 
