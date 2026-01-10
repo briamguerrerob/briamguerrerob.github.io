@@ -299,7 +299,7 @@ author_profile: true
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/sem_8_micro2_slides.pdf)
-- 📝 Apuntes de clase
+- 📝 [Apuntes de clase](https://briamguerrerob.github.io/files/sem_8_micro2_notes.pdf)
 
 </details>
 
