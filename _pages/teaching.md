@@ -283,7 +283,7 @@ author_profile: true
 
 <details markdown="1">
   <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
-    U.6: Monopolio y conducta del monopolio
+    U.6: Monopolio, conducta del monopolio y mercado de factores
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec11_and_12_sem7_micro2.pdf)
