@@ -144,7 +144,7 @@ author_profile: true
 
 <details markdown="1">
   <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
-    U.10: Elección intertemporal
+    U.10.1: Elección intertemporal
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/sem_8_micro1_slides.pdf)
@@ -154,7 +154,17 @@ author_profile: true
 
 <div style="height:0.10em;"></div>
 
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.10.2 y U.11: Mercados de activos, incertidumbre y activos riesgosos
+  </summary>
 
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/sem_9_micro1_slides.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
+<div style="height:0.10em;"></div>
 
   <div style="height:0.35em;"></div>
   
@@ -305,7 +315,17 @@ author_profile: true
 
 <div style="height:0.10em;"></div>
 
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.8 y U.9: Introducción a la teoría de juegos y externalidades
+  </summary>
 
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/sem_9_micro2_slides.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
+<div style="height:0.10em;"></div>
 
 
 
