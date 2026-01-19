@@ -166,6 +166,18 @@ author_profile: true
 
 <div style="height:0.10em;"></div>
 
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.12: Excedente del consumidor y demanda de mercado
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/sem_9_micro1_slides2.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
+<div style="height:0.10em;"></div>
+
   <div style="height:0.35em;"></div>
   
 <details markdown="1">
@@ -327,6 +339,17 @@ author_profile: true
 
 <div style="height:0.10em;"></div>
 
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.10: Bienes públicos
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/sem_9_micro2_slides2.pdf)
+- 📝 Apuntes de clase
+
+</details>
+
+<div style="height:0.10em;"></div>
 
 
   <div style="height:0.35em;"></div>
