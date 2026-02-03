@@ -38,7 +38,6 @@ author_profile: true
 
 
 
-
 <!-- Micro II 2026t1 -->
 <div style="background-color:#f9fafc; border-left:4px solid #4f46e5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
