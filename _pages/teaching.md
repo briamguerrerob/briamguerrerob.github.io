@@ -13,6 +13,32 @@ author_profile: true
 </h2>
 
 
+<!-- Macro II 2026t1 -->
+<div style="background-color:#f9fafc; border-left:4px solid #4f46e5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
+<details>
+  <summary style="font-size:1.1em;">
+    <strong style="color:#1e40af;">Macroeconomía II (ECO306)</strong> - <span style="color:#6b7280;">Profesor adjunto (2026-T1)</span>
+  </summary>
+
+{{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_macro2_2026t1.pdf)" | markdownify }}
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.0: Repaso de Macroeconomía 1: Optimización Dinámica
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/review_macro1.pdf)
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+</details>
+</div>
+
+
+
+
 <!-- Micro II 2026t1 -->
 <div style="background-color:#f9fafc; border-left:4px solid #4f46e5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
@@ -24,7 +50,7 @@ author_profile: true
 
 <details markdown="1">
   <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
-    U.0: Repaso de Microeconomía 1
+    U.0: Repaso de Microeconomía 1: Teoría del Consumidor
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/review_micro1.pdf)
