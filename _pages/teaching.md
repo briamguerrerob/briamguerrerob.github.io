@@ -33,6 +33,20 @@ author_profile: true
 
 <div style="height:0.10em;"></div>
 
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.1: Incertidumbre, Expectativas y Métodos de Solución DSGE
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/U1_DSGE_Foundations.pdf)
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+
+
+
 </details>
 </div>
 
@@ -53,6 +67,17 @@ author_profile: true
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/review_micro1.pdf)
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.1 y U.2: Tecnología, Beneficios y Costos (Teoría de la Firma I)
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec02_sem1_micro2_2026t1.pdf)
 
 </details>
 
