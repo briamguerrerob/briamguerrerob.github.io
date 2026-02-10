@@ -83,6 +83,20 @@ author_profile: true
 
 <div style="height:0.10em;"></div>
 
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.2 (cont.) y U.3: Curvas de Costo, Oferta de la Firma y Oferta de la Industria (Teoría de la Firma II)
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/main_U2U3_teoria_firma_II.pdf)
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+
+
+
 </details>
 </div>
 
