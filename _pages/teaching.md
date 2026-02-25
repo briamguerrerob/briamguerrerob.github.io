@@ -44,6 +44,30 @@ author_profile: true
 
 <div style="height:0.10em;"></div>
 
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.2: Teoría de ciclos económicos reales (RBC)
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/U2_RBC.pdf)
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.3: Rigideces nominales
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/main_U3_rigideces_nominales.pdf)
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+
 
 
 
