@@ -187,8 +187,27 @@ author_profile: true
 
 <div style="height:0.10em;"></div>
 
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.9: Externalidades
+  </summary>
 
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/main_U9_externalidades.pdf)
 
+</details>
+
+<div style="height:0.10em;"></div>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.10: Bienes públicos
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/main_U10_bienes_publicos.pdf)
+
+</details>
+
+<div style="height:0.10em;"></div>
 
 
 </details>
