@@ -99,10 +99,17 @@ author_profile: true
 
 </details>
 
-<div style="height:0.10em;"></div>
 
+  <div style="height:0.35em;"></div>
 
+<details markdown="1">
+  <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">
+    📊 Evaluaciones 
+  </summary>
 
+- [Proyecto final](https://briamguerrerob.github.io/files/asignacion_macro2.pdf)    
+
+</details>
 
 
 
@@ -193,6 +200,17 @@ author_profile: true
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/main_U7_teoria_juegos.pdf)
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+<details markdown="1">
+  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+    U.7: Información asimétrica
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/main_U8_info_asimetrica.pdf)
 
 </details>
 
