@@ -207,7 +207,7 @@ author_profile: true
 
 <details markdown="1">
   <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
-    U.7: Información asimétrica
+    U.8: Información asimétrica
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/main_U8_info_asimetrica.pdf)
