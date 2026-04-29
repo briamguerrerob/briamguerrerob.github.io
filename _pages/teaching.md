@@ -56,16 +56,16 @@ author_profile: true
 
 
 <!-- Macro II 2026t1 -->
-<div style="background-color:#f9fafc; border-left:4px solid #4f46e5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
+<div style="background-color:#f9fafc; border-left:4px solid #E41E26; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
   <summary style="font-size:1.1em;">
-    <strong style="color:#1e40af;">Macroeconomía II (ECO306)</strong> - <span style="color:#6b7280;">Profesor adjunto (2026-T1)</span>
+    <strong style="color:#E41E26;">Macroeconomía II (ECO306)</strong> - <span style="color:#6b7280;">Profesor adjunto (2026-T1)</span>
   </summary>
 
 {{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_macro2_2026t1.pdf)" | markdownify }}
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.0: Repaso de Macroeconomía 1: Optimización Dinámica
   </summary>
 
@@ -76,7 +76,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.1: Incertidumbre, Expectativas y Métodos de Solución DSGE
   </summary>
 
@@ -87,7 +87,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.2: Teoría de ciclos económicos reales (RBC)
   </summary>
 
@@ -99,7 +99,7 @@ author_profile: true
 
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.3: Rigideces nominales
   </summary>
 
@@ -110,7 +110,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.4: Modelo nuevo keynesiano
   </summary>
 
@@ -121,7 +121,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.5: Política monetaria
   </summary>
 
@@ -133,7 +133,7 @@ author_profile: true
 
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.6: Política fiscal y extensiones
   </summary>
 
@@ -162,16 +162,16 @@ author_profile: true
 
 
 <!-- Micro II 2026t1 -->
-<div style="background-color:#f9fafc; border-left:4px solid #4f46e5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
+<div style="background-color:#f9fafc; border-left:4px solid #E41E26; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
   <summary style="font-size:1.1em;">
-    <strong style="color:#1e40af;">Microeconomía II (ECO304)</strong> - <span style="color:#6b7280;">Profesor adjunto (2026-T1)</span>
+    <strong style="color:#E41E26;">Microeconomía II (ECO304)</strong> - <span style="color:#6b7280;">Profesor adjunto (2026-T1)</span>
   </summary>
 
 {{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_micro2_2026t1.pdf)" | markdownify }}
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.0: Repaso de Microeconomía 1: Teoría del Consumidor
   </summary>
 
@@ -182,7 +182,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.1 y U.2: Tecnología, Beneficios y Costos (Teoría de la Firma I)
   </summary>
 
@@ -193,7 +193,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.2 (cont.) y U.3: Curvas de Costo, Oferta de la Firma y Oferta de la Industria (Teoría de la Firma II)
   </summary>
 
@@ -204,7 +204,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.4: Equilibrio general e intercambio
   </summary>
 
@@ -215,7 +215,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.5: Monopolio, comportamiento del monopolio y mercado de factores
   </summary>
 
@@ -226,7 +226,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.6: Oligopolio
   </summary>
 
@@ -237,7 +237,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.7: Introducción a la teoría de juegos
   </summary>
 
@@ -248,7 +248,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.8: Información asimétrica
   </summary>
 
@@ -259,7 +259,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.9: Externalidades
   </summary>
 
@@ -270,7 +270,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.10: Bienes públicos
   </summary>
 
@@ -305,16 +305,16 @@ author_profile: true
 
 
 <!-- Micro I -->
-<div style="background-color:#f9fafc; border-left:4px solid #4f46e5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
+<div style="background-color:#f9fafc; border-left:4px solid #E41E26; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
   <summary style="font-size:1.1em;">
-    <strong style="color:#1e40af;">Microeconomía I (ECO351)</strong> - <span style="color:#6b7280;">Profesor adjunto (2025-T4)</span>
+    <strong style="color:#E41E26;">Microeconomía I (ECO351)</strong> - <span style="color:#6b7280;">Profesor adjunto (2025-T4)</span>
   </summary>
 
 {{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_micro1.pdf)" | markdownify }}
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.1: El análisis microeconómico y los principios en que se fundamenta
   </summary>
 
@@ -326,7 +326,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.2: La restricción presupuestaria
   </summary>
 
@@ -338,7 +338,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.3.1: Las preferencias (parte I)
   </summary>
 
@@ -350,7 +350,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.3.2: Las preferencias (parte II)
   </summary>
 
@@ -362,7 +362,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.4: La utilidad
   </summary>
 
@@ -374,7 +374,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.5: La elección del consumidor
   </summary>
 
@@ -386,7 +386,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.6: La demanda del consumidor
   </summary>
 
@@ -398,7 +398,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.7: Las preferencias reveladas
   </summary>
 
@@ -410,7 +410,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.8.1: La ecuación de Slutsky
   </summary>
 
@@ -422,7 +422,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.8.2 y U.9: Revisión de la ecuación de Slutsky y dotaciones iniciales del consumidor
   </summary>
 
@@ -434,7 +434,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.10.1: Elección intertemporal
   </summary>
 
@@ -446,7 +446,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.10.2 y U.11: Mercados de activos, incertidumbre y activos riesgosos
   </summary>
 
@@ -458,7 +458,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.12: Excedente del consumidor y demanda de mercado
   </summary>
 
@@ -501,16 +501,16 @@ author_profile: true
 
 
 <!-- Micro II -->
-<div style="background-color:#f9fafc; border-left:4px solid #4f46e5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
+<div style="background-color:#f9fafc; border-left:4px solid #E41E26; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
   <summary style="font-size:1.1em;">
-    <strong style="color:#1e40af;">Microeconomía II (ECO304)</strong> - <span style="color:#6b7280;">Profesor adjunto (2025-T4)</span>
+    <strong style="color:#E41E26;">Microeconomía II (ECO304)</strong> - <span style="color:#6b7280;">Profesor adjunto (2025-T4)</span>
   </summary>
 
   {{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_micro2.pdf)" | markdownify }}
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.1.1: Teoría de la demanda
   </summary>
 
@@ -522,7 +522,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.1.2: Las preferencias reveladas
   </summary>
 
@@ -535,7 +535,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.2.1: La ecuación de Slutsky
   </summary>
 
@@ -547,7 +547,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.2.2: Revisión de la ecuación de Slutsky y dotaciones iniciales del consumidor
   </summary>
 
@@ -559,7 +559,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.3: Elección intertemporal
   </summary>
 
@@ -571,7 +571,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.4: Teoría de la empresa
   </summary>
 
@@ -583,7 +583,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.5: Oferta de la empresa y la industria
   </summary>
 
@@ -595,7 +595,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.6: Monopolio, conducta del monopolio y mercado de factores
   </summary>
 
@@ -607,7 +607,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.7: Oligopolio e intercambio
   </summary>
 
@@ -619,7 +619,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.8 y U.9: Introducción a la teoría de juegos y externalidades
   </summary>
 
@@ -631,7 +631,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#e0f2fe; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
     U.10: Bienes públicos
   </summary>
 
