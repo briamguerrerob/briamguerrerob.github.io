@@ -7,6 +7,48 @@ author_profile: true
 
 {% include base_path %}
 
+<h2 style="display:flex; align-items:center; gap:0.5em; color:#003DA5;">
+  <img src="https://briamguerrerob.github.io/images/Logo PUCMM.png" alt="PUCMM logo" style="height:32px; width:auto; margin-bottom:-4px;">
+  Pontificia Universidad Católica Madre y Maestra (PUCMM)
+</h2>
+
+<!-- Microeconomía I PUCMM -->
+<div style="background-color:#f9fafc; border-left:4px solid #003DA5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
+<details>
+  <summary style="font-size:1.1em;">
+    <strong style="color:#003DA5;">Microeconomía I</strong> -
+    <span style="color:#6b7280;">Profesor (PUCMM)</span>
+  </summary>
+
+{{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/micro1_program_pucmm.pdf)" | markdownify }}
+
+<details markdown="1">
+  <summary style="background:#e6f0ff; padding:0.45em 0.7em; border-radius:6px;">
+    U.0: Introducción y herramientas matemáticas
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/main_U0_intro_matematica_pucmm.pdf)
+
+</details>
+
+<!--
+<div style="height:0.35em;"></div>
+
+<details markdown="1">
+  <summary style="background:#f3f4f6; padding:0.45em 0.7em; border-radius:6px;">
+    📊 Evaluaciones
+  </summary>
+
+- [Proyecto final](https://yourlinkhere.pdf)
+
+</details>
+-->
+
+</details>
+</div>
+
+
+
 <h2 style="display:flex; align-items:center; gap:0.5em; color:#E41E26;">
   <img src="https://briamguerrerob.github.io//images/logo_intec.png" alt="INTEC logo" style="height:28px; width:auto; margin-bottom:-4px;">
   Instituto Tecnológico de Santo Domingo (INTEC)
