@@ -5,33 +5,58 @@ permalink: /research/
 author_profile: true
 ---
 
-My research interests are Labor Economics, Development Economics and Applied Econometrics.
+My research interests lie at the intersection of **labor economics**, **development economics**, and **applied econometrics**, with a particular focus on skills, occupational choice, informality, and economic development.
 
+---
 
-## Research Assistantships work
+## Research Assistantships
 
-#### [Gazebo](https://www.amazon.com/dp/B087X9NB7G/ref=tsm_1_fb_lk) <sub> Book by Prof. Xavier Sala-i-Martin and Peter Prazmowski <sub>
+### *Gazebo*  
+**Book project by Prof. Xavier Sala-i-Martin and Peter Prazmowski**  
 
-## Working papers
+[More information](https://www.amazon.com/dp/B087X9NB7G/ref=tsm_1_fb_lk)
 
-#### [Vulnerabilities of the Pension and Retirement Program of the Dominican Educational System](https://educa.org.do/wp-content/uploads/2017/07/Nota-de-Trabajo-No.-34.pdf) <sub> Joint work with Marygracia Aquino <sub>
+---
 
-#### [Hamiltonian of the Black-Scholes-Merton equation](https://www.researchgate.net/publication/376391779_Hamiltonian_of_the_Black-Scholes-Merton_equation) <sub> Joint work with Primitivo Acosta-Humánez, Omar Bairan and Jose Garcia <sub>
+## Working Papers and Research Outputs
 
-### Other research: [ResearchGate profile](https://www.researchgate.net/profile/Briam-Guerrero-2/research)
+### Vulnerabilities of the Pension and Retirement Program of the Dominican Educational System  
+**Joint work with Marygracia Aquino**  
 
- 
-## Thesis
+[Working paper](https://educa.org.do/wp-content/uploads/2017/07/Nota-de-Trabajo-No.-34.pdf)
 
-#### Master Thesis in Economics (PSE):<sub> [The Right Skills in the Wrong Jobs: How Multidimensional Skill Mismatch Shapes Occupational Choice and Informality in Developing Countries](https://www.researchgate.net/publication/397175486_The_Right_Skills_in_the_Wrong_Jobs_How_Multidimensional_Skill_Mismatch_Shapes_Occupational_Choice_and_Informality_in_Developing_Countries)
+### Hamiltonian of the Black-Scholes-Merton Equation  
+**Joint work with Primitivo Acosta-Humánez, Omar Bairan, and José García**  
 
-#### Master Thesis in Applied Mathematics (in spanish):<sub> [A Predictor-Corrector Interior Point Algorithm for the Optimization of the Government Budget Revenue](https://www.researchgate.net/publication/384359271_A_Predictor-Corrector_Interior_Point_Algorithm_for_the_Optimization_of_the_Government_Budget_Revenue)
+[ResearchGate version](https://www.researchgate.net/publication/376391779_Hamiltonian_of_the_Black-Scholes-Merton_equation)
 
-#### Bachelor Thesis in Economics (in spanish):<sub> [Determinants of Economic Growth in the Dominican Republic: a DSGE approach](https://www.researchgate.net/publication/384360359_Determinants_of_Economic_Growth_in_Developing_Countries_a_DSGE_approach)
+---
 
-  
- 
- 
-  
-  
-  
+## Theses
+
+### MRes Thesis in Economics  
+**Paris School of Economics**  
+
+*The Right Skills in the Wrong Jobs: How Multidimensional Skill Mismatch Shapes Occupational Choice and Informality in Developing Countries*  
+
+[ResearchGate version](https://www.researchgate.net/publication/397175486_The_Right_Skills_in_the_Wrong_Jobs_How_Multidimensional_Skill_Mismatch_Shapes_Occupational_Choice_and_Informality_in_Developing_Countries)
+
+### MSc Thesis in Applied Mathematics  
+**Instituto Tecnológico de Santo Domingo (INTEC)**  
+
+*A Predictor-Corrector Interior Point Algorithm for the Optimization of Government Budget Revenue*  
+
+[ResearchGate version](https://www.researchgate.net/publication/384359271_A_Predictor-Corrector_Interior_Point_Algorithm_for_the_Optimization_of_the_Government_Budget_Revenue)
+
+### BSc Thesis in Economics  
+**Instituto Tecnológico de Santo Domingo (INTEC)**  
+
+*Determinants of Economic Growth in the Dominican Republic: A DSGE Approach*  
+
+[ResearchGate version](https://www.researchgate.net/publication/384360359_Determinants_of_Economic_Growth_in_Developing_Countries_a_DSGE_approach)
+
+---
+
+## Additional Research
+
+A broader list of research outputs is available on my [ResearchGate profile](https://www.researchgate.net/profile/Briam-Guerrero-2/research).
