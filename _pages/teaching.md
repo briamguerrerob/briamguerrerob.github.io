@@ -17,7 +17,7 @@ author_profile: true
 <details>
   <summary style="font-size:1.1em;">
     <strong style="color:#003DA5;">Microeconomía I</strong> -
-    <span style="color:#6b7280;">Profesor (PUCMM)</span>
+    <span style="color:#6b7280;">Profesor (Período 3: 2025-2026)</span>
   </summary>
 
 {{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/micro1_program_pucmm.pdf)" | markdownify }}
