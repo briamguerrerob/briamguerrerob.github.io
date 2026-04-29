@@ -49,17 +49,17 @@ author_profile: true
 
 
 
-<h2 style="display:flex; align-items:center; gap:0.5em; color:#E41E26;">
+<h2 style="display:flex; align-items:center; gap:0.5em; color:#c8102e;">
   <img src="https://briamguerrerob.github.io//images/logo_intec.png" alt="INTEC logo" style="height:28px; width:auto; margin-bottom:-4px;">
   Instituto Tecnológico de Santo Domingo (INTEC)
 </h2>
 
 
 <!-- Macro II 2026t1 -->
-<div style="background-color:#f9fafc; border-left:4px solid #E41E26; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
+<div style="background-color:#f9fafc; border-left:4px solid #c8102e; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
   <summary style="font-size:1.1em;">
-    <strong style="color:#E41E26;">Macroeconomía II (ECO306)</strong> - <span style="color:#6b7280;">Profesor adjunto (2026-T1)</span>
+    <strong style="color:#c8102e;">Macroeconomía II (ECO306)</strong> - <span style="color:#6b7280;">Profesor adjunto (2026-T1)</span>
   </summary>
 
 {{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_macro2_2026t1.pdf)" | markdownify }}
@@ -162,10 +162,10 @@ author_profile: true
 
 
 <!-- Micro II 2026t1 -->
-<div style="background-color:#f9fafc; border-left:4px solid #E41E26; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
+<div style="background-color:#f9fafc; border-left:4px solid #c8102e; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
   <summary style="font-size:1.1em;">
-    <strong style="color:#E41E26;">Microeconomía II (ECO304)</strong> - <span style="color:#6b7280;">Profesor adjunto (2026-T1)</span>
+    <strong style="color:#c8102e;">Microeconomía II (ECO304)</strong> - <span style="color:#6b7280;">Profesor adjunto (2026-T1)</span>
   </summary>
 
 {{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_micro2_2026t1.pdf)" | markdownify }}
@@ -305,10 +305,10 @@ author_profile: true
 
 
 <!-- Micro I -->
-<div style="background-color:#f9fafc; border-left:4px solid #E41E26; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
+<div style="background-color:#f9fafc; border-left:4px solid #c8102e; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
   <summary style="font-size:1.1em;">
-    <strong style="color:#E41E26;">Microeconomía I (ECO351)</strong> - <span style="color:#6b7280;">Profesor adjunto (2025-T4)</span>
+    <strong style="color:#c8102e;">Microeconomía I (ECO351)</strong> - <span style="color:#6b7280;">Profesor adjunto (2025-T4)</span>
   </summary>
 
 {{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_micro1.pdf)" | markdownify }}
@@ -501,10 +501,10 @@ author_profile: true
 
 
 <!-- Micro II -->
-<div style="background-color:#f9fafc; border-left:4px solid #E41E26; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
+<div style="background-color:#f9fafc; border-left:4px solid #c8102e; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
   <summary style="font-size:1.1em;">
-    <strong style="color:#E41E26;">Microeconomía II (ECO304)</strong> - <span style="color:#6b7280;">Profesor adjunto (2025-T4)</span>
+    <strong style="color:#c8102e;">Microeconomía II (ECO304)</strong> - <span style="color:#6b7280;">Profesor adjunto (2025-T4)</span>
   </summary>
 
   {{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/syllabus_micro2.pdf)" | markdownify }}
