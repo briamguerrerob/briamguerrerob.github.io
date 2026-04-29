@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
+A current version of my Curriculum Vitae (CV) can be downloaded below.
 
-You can find my CV [here](https://briamguerrerob.github.io//files/cv_eng.pdf)
+📄 [Download CV (PDF)](https://briamguerrerob.github.io/files/cv_eng.pdf)
 
 {% include base_path %}
