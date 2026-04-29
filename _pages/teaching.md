@@ -16,7 +16,7 @@ author_profile: true
 <div style="background-color:#f9fafc; border-left:4px solid #003DA5; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
 <details>
   <summary style="font-size:1.1em;">
-    <strong style="color:#003DA5;">Microeconomía I</strong> -
+    <strong style="color:#003DA5;">Microeconomía I (ECO-232-T)</strong> -
     <span style="color:#6b7280;">Profesor (Período 3: 2025-2026)</span>
   </summary>
 
