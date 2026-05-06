@@ -35,7 +35,7 @@ author_profile: true
 
 <details markdown="1">
   <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
-    U.1: Nociones básicas de microeconomía: demanda, oferta y el mercado
+    U.1: Nociones básicas de microeconomía - demanda, oferta y el mercado
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/main_unidad1_micro1.pdf)
