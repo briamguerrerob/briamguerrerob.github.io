@@ -34,7 +34,7 @@ author_profile: true
 <div style="height:0.10em;"></div>
 
 <details markdown="1">
-  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
+  <summary style="background:#e6f0ff; padding:0.45em 0.7em; border-radius:6px;">
     U.1: Nociones básicas de microeconomía - demanda, oferta y el mercado
   </summary>
 
