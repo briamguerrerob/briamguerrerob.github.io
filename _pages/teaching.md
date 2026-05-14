@@ -381,7 +381,7 @@ author_profile: true
       <div class="term-item">
         <button class="term-toggle" onclick="toggleBlock(this)">
           <div class="term-toggle-left">
-            <span class="term-badge">2025–26</span>
+            <span class="term-badge">2025-26</span>
             <span class="term-label">Período 3</span>
             <span class="term-meta">Profesor</span>
           </div>
