@@ -79,7 +79,7 @@ author_profile: true
 
 <details markdown="1">
   <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
-    U.0: Repaso de Microeconomía 1: Teoría del Consumidor
+    U.0: Repaso de microeconomía 1: teoría del consumidor
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/review_micro1_2026t2.pdf)
@@ -90,7 +90,7 @@ author_profile: true
 
 <details markdown="1">
   <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
-    U.1 y U.2: Tecnología, Beneficios y Costos (Teoría de la Firma I)
+    U.1 y U.2: Tecnología, beneficios y costos (Teoría de la firma I)
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/main_U1U2_teoria_firma_I_2026t2.pdf)
