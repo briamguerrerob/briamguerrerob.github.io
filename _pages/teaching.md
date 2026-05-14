@@ -103,13 +103,49 @@ author_profile: true
   <div style="height:0.35em;"></div>
 
 
-
 </details>
 </div>
 
 
 
 
+<!-- Macro I 2026t2 -->
+<div style="background-color:#f9fafc; border-left:4px solid #c8102e; padding:1em; border-radius:10px; margin:0.6em 0 1em;">
+<details>
+  <summary style="font-size:1.1em;">
+    <strong style="color:#c8102e;">Macroeconomía I (ECO305)</strong> - <span style="color:#6b7280;">Profesor adjunto (2026-T2)</span>
+  </summary>
+
+{{ "📄 [Programa y calendario](https://briamguerrerob.github.io/files/macro1_syllabus_2026t2.pdf)" | markdownify }}
+
+<details markdown="1">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
+    U.0: Repaso de herramientas matemáticas
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/U0_Repaso_Matematico_2026t2.pdf)
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+<details markdown="1">
+  <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
+    U.1: Introducción y medición macroeconómica
+  </summary>
+
+- 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/U1_Medicion_2026t2.pdf)
+
+</details>
+
+<div style="height:0.10em;"></div>
+
+
+  <div style="height:0.35em;"></div>
+
+
+</details>
+</div>
 
 
 
@@ -125,7 +161,7 @@ author_profile: true
 
 <details markdown="1">
   <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
-    U.0: Repaso de Macroeconomía 1: Optimización Dinámica
+    U.0: Repaso de macroeconomía 1: optimización dinámica
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/review_macro1.pdf)
@@ -136,7 +172,7 @@ author_profile: true
 
 <details markdown="1">
   <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
-    U.1: Incertidumbre, Expectativas y Métodos de Solución DSGE
+    U.1: Incertidumbre, expectativas y métodos de solución DSGE
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/U1_DSGE_Foundations.pdf)
@@ -242,7 +278,7 @@ author_profile: true
 
 <details markdown="1">
   <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
-    U.1 y U.2: Tecnología, Beneficios y Costos (Teoría de la Firma I)
+    U.1 y U.2: Tecnología, beneficios y costos (Teoría de la firma I)
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/lec02_sem1_micro2_2026t1.pdf)
@@ -253,7 +289,7 @@ author_profile: true
 
 <details markdown="1">
   <summary style="background:#fee2e2; padding:0.45em 0.7em; border-radius:6px;">
-    U.2 (cont.) y U.3: Curvas de Costo, Oferta de la Firma y Oferta de la Industria (Teoría de la Firma II)
+    U.2 (cont.) y U.3: Curvas de costo, oferta de la firma y oferta de la industria (Teoría de la firma II)
   </summary>
 
 - 🖥️ [Diapositivas de clase](https://briamguerrerob.github.io/files/main_U2U3_teoria_firma_II.pdf)
