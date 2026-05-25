@@ -416,6 +416,21 @@ author_profile: true
                 </div>
               </div>
             </div>
+            <div class="unit-item">
+              <button class="unit-toggle" onclick="toggleBlock(this)">
+                <span class="unit-num">U.2</span>
+                <span class="unit-name">Análisis del comportamiento del consumidor</span>
+                <svg class="unit-chevron" width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2 4l4 4 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              </button>
+              <div class="unit-body">
+                <div class="unit-links">
+                  <a class="unit-link" href="https://briamguerrerob.github.io/files/main_Unidad_II_Consumidor.pdf" target="_blank">🖥️ Diapositivas</a>
+                </div>
+              </div>
+            </div>
+
+
+            
           </div>
         </div>
       </div>
