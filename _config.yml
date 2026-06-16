@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Briam Guerrero"
+title                    : "Briam E. Guerrero-Batista"
 title_separator          : "-"
-name                     : &name "Briam Guerrero"
+name                     : &name "Briam E. Guerrero-Batista"
 description              : &description "Economist and Mathematician"
 url                      : https://briamguerrerob.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
