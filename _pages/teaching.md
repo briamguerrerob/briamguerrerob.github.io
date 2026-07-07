@@ -67,7 +67,7 @@ author_profile: true
   <div>
     <p class="course-title">Microeconomics I</p>
     <p class="course-terms">Term 3, 2025-2026.</p>
-    <p class="course-role">Instructor.</p>
+    <p class="course-role">Professor.</p>
     <p class="course-desc">Intermediate microeconomics: consumer theory (preferences, utility, and constrained optimization), choice under uncertainty, consumer and producer surplus, and the theory of the firm under perfect competition.</p>
   </div>
 </div>
@@ -79,7 +79,7 @@ author_profile: true
   <div>
     <p class="course-title">Microeconomics I</p>
     <p class="course-terms">Trimester 4, 2025.</p>
-    <p class="course-role">Instructor.</p>
+    <p class="course-role">Professor.</p>
     <p class="course-desc">Consumer theory: budget constraint, preferences, utility, optimal choice, the Slutsky equation, revealed preference, intertemporal choice, uncertainty, and consumer surplus.</p>
   </div>
 </div>
@@ -89,7 +89,7 @@ author_profile: true
   <div>
     <p class="course-title">Microeconomics II</p>
     <p class="course-terms">Trimester 4, 2025. Trimester 1, 2026. Trimester 2, 2026.</p>
-    <p class="course-role">Instructor.</p>
+    <p class="course-role">Professor.</p>
     <p class="course-desc">Demand and revealed preference, the theory of the firm, competitive supply, monopoly, oligopoly, general equilibrium, game theory, externalities, and public goods.</p>
   </div>
 </div>
@@ -99,7 +99,7 @@ author_profile: true
   <div>
     <p class="course-title">Macroeconomics I</p>
     <p class="course-terms">Trimester 2, 2026.</p>
-    <p class="course-role">Instructor.</p>
+    <p class="course-role">Professor.</p>
     <p class="course-desc">Long-run growth (the Solow model, endogenous growth, and the neoclassical Ramsey model) and short-run fluctuations (IS-LM, the Phillips curve, and the IS-LM-PC model), with fiscal and monetary policy.</p>
   </div>
 </div>
@@ -109,7 +109,7 @@ author_profile: true
   <div>
     <p class="course-title">Macroeconomics II</p>
     <p class="course-terms">Trimester 1, 2026.</p>
-    <p class="course-role">Instructor.</p>
+    <p class="course-role">Professor.</p>
     <p class="course-desc">Modern business-cycle macroeconomics: DSGE methods, real business cycle theory, nominal rigidities, the New Keynesian model, and monetary and fiscal policy.</p>
   </div>
 </div>
