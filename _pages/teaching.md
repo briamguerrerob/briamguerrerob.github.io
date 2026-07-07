@@ -10,22 +10,13 @@ author_profile: true
 <style>
   .teaching-page { max-width: 780px; }
 
-  .teaching-page h2.level {
-    color: #1f2937;
-    font-weight: 700;
-    font-size: 19px;
-    margin: 2.4rem 0 0.2rem;
-    padding-bottom: 0.45rem;
-    border-bottom: 1px solid #d1d5db;
-  }
-  .teaching-page h2.level:first-of-type { margin-top: 1.2rem; }
-
   .teaching-page h3.inst {
     color: #003DA5;
     font-weight: 700;
     font-size: 15px;
     margin: 1.6rem 0 0.2rem;
   }
+  .teaching-page h3.inst:first-of-type { margin-top: 1.2rem; }
 
   .course-row {
     display: grid;
@@ -70,8 +61,6 @@ author_profile: true
 
 <div class="teaching-page">
 
-<h2 class="level">Bachelor's in Economics</h2>
-
 <h3 class="inst">Pontificia Universidad Católica Madre y Maestra (PUCMM)</h3>
 
 <div class="course-row">
@@ -79,7 +68,7 @@ author_profile: true
   <div>
     <p class="course-title">Microeconomics I</p>
     <p class="course-meta">Professor · 2025-2026, P3</p>
-    <p class="course-desc">Intermediate microeconomics: consumer theory (preferences, utility, and constrained optimization), choice under uncertainty, consumer and producer surplus, and the theory of the firm under perfect competition.</p>
+    <p class="course-desc">Undergraduate course in intermediate microeconomics: consumer theory (preferences, utility, and constrained optimization), choice under uncertainty, consumer and producer surplus, and the theory of the firm under perfect competition.</p>
   </div>
 </div>
 
@@ -90,7 +79,7 @@ author_profile: true
   <div>
     <p class="course-title">Microeconomics I</p>
     <p class="course-meta">Professor · 2025-T4</p>
-    <p class="course-desc">Consumer theory: budget constraint, preferences, utility, optimal choice, the Slutsky equation, revealed preference, intertemporal choice, uncertainty, and consumer surplus.</p>
+    <p class="course-desc">Undergraduate course in consumer theory: budget constraint, preferences, utility, optimal choice, the Slutsky equation, revealed preference, intertemporal choice, uncertainty, and consumer surplus.</p>
   </div>
 </div>
 
@@ -99,7 +88,7 @@ author_profile: true
   <div>
     <p class="course-title">Microeconomics II</p>
     <p class="course-meta">Professor · 2025-T4, 2026-T1, 2026-T2</p>
-    <p class="course-desc">Demand and revealed preference, the theory of the firm, competitive supply, monopoly, oligopoly, general equilibrium, game theory, externalities, and public goods.</p>
+    <p class="course-desc">Undergraduate course in intermediate microeconomics: demand and revealed preference, the theory of the firm, competitive supply, monopoly, oligopoly, general equilibrium, game theory, externalities, and public goods.</p>
   </div>
 </div>
 
@@ -108,7 +97,7 @@ author_profile: true
   <div>
     <p class="course-title">Macroeconomics I</p>
     <p class="course-meta">Professor · 2026-T2</p>
-    <p class="course-desc">Long-run growth (the Solow model, endogenous growth, and the neoclassical Ramsey model) and short-run fluctuations (IS-LM, the Phillips curve, and the IS-LM-PC model), with fiscal and monetary policy.</p>
+    <p class="course-desc">Undergraduate course in macroeconomics: long-run growth (the Solow model, endogenous growth, and the neoclassical Ramsey model) and short-run fluctuations (IS-LM, the Phillips curve, and the IS-LM-PC model), with fiscal and monetary policy.</p>
   </div>
 </div>
 
@@ -117,15 +106,22 @@ author_profile: true
   <div>
     <p class="course-title">Macroeconomics II</p>
     <p class="course-meta">Professor · 2026-T1</p>
-    <p class="course-desc">Modern business-cycle macroeconomics: DSGE methods, real business cycle theory, nominal rigidities, the New Keynesian model, and monetary and fiscal policy.</p>
+    <p class="course-desc">Undergraduate course in modern business-cycle macroeconomics: DSGE methods, real business cycle theory, nominal rigidities, the New Keynesian model, and monetary and fiscal policy.</p>
   </div>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════
-     MASTER'S SECTION — add when ready. Copy the pattern above:
-     <h2 class="level">Master's in Mathematics of Stochastic Processes</h2>
-     <h3 class="inst">Institution name</h3>
-     <div class="course-row"> ... </div>
+     MASTER'S COURSE — add when ready. Same pattern; if it's a
+     different university, add a new heading first:
+     <h3 class="inst">University name</h3>
+     <div class="course-row">
+       <div class="course-code">CODE</div>
+       <div>
+         <p class="course-title">Course name</p>
+         <p class="course-meta">Professor · 2026-...</p>
+         <p class="course-desc">Graduate course in ...</p>
+       </div>
+     </div>
 ════════════════════════════════════════════════════════════ -->
 
 </div>
