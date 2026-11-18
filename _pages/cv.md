@@ -19,7 +19,7 @@ redirect_from:
   <div class="entry-side">Since 2026</div>
   <div>
     <p class="entry-title">PhD in Economics</p>
-    <p class="entry-meta">Paris School of Economics (PSE)</p>
+    <p class="entry-meta"><a href="https://www.parisschoolofeconomics.eu/en/persons/briam-e-guerrero-batista/" target="_blank">Paris School of Economics (PSE)</a></p>
     <p class="entry-desc">France Excellence Eiffel Doctoral Scholar. Thesis committee: David N. Margolis (supervisor) and Karen Macours.</p>
   </div>
 </div>
