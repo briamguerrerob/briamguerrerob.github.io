@@ -16,7 +16,7 @@ redirect_from:
 <h2 class="section">Education</h2>
 
 <div class="entry-row">
-  <div class="entry-side">Since 2026</div>
+  <div class="entry-side">2026-Present</div>
   <div>
     <p class="entry-title">PhD in Economics</p>
     <p class="entry-meta"><a href="https://www.parisschoolofeconomics.eu/en/persons/briam-e-guerrero-batista/" target="_blank">Paris School of Economics (PSE)</a></p>
@@ -54,7 +54,7 @@ redirect_from:
 <h2 class="section">Academic Positions</h2>
 
 <div class="entry-row">
-  <div class="entry-side">Since 2026</div>
+  <div class="entry-side">2026-Present</div>
   <div>
     <p class="entry-title">Adjunct Faculty</p>
     <p class="entry-meta">Sciences Po, Paris</p>
@@ -80,15 +80,7 @@ redirect_from:
 <div class="entry-row">
   <div class="entry-side">2017-2021</div>
   <div>
-    <p class="entry-title">Teaching Assistant</p>
-    <p class="entry-meta">Instituto Tecnológico de Santo Domingo (INTEC)</p>
-  </div>
-</div>
-
-<div class="entry-row">
-  <div class="entry-side">2017-2019</div>
-  <div>
-    <p class="entry-title">Substitute Professor</p>
+    <p class="entry-title">Teaching Assistant and Substitute Professor</p>
     <p class="entry-meta">Instituto Tecnológico de Santo Domingo (INTEC)</p>
   </div>
 </div>
@@ -124,7 +116,7 @@ redirect_from:
 <div class="entry-row">
   <div class="entry-side">2019-2020</div>
   <div>
-    <p class="entry-title">Research Technical Coordinator</p>
+    <p class="entry-title">Research Technical Coordinator and Research Assistant</p>
     <p class="entry-meta">Group for National Productivity and Competitiveness (GPCN)</p>
   </div>
 </div>
@@ -191,7 +183,7 @@ redirect_from:
 <div class="entry-row">
   <div class="entry-side">Software</div>
   <div>
-    <p class="entry-desc">R, Stata, Python, Matlab, Mathematica, SQL, LaTeX, Git</p>
+    <p class="entry-desc">R, Stata, Python, MATLAB, Mathematica, SQL, LaTeX, Git</p>
   </div>
 </div>
 
@@ -201,7 +193,7 @@ redirect_from:
   <div class="entry-side">Supervisor</div>
   <div>
     <p class="entry-title">David N. Margolis</p>
-    <p class="entry-meta">Paris School of Economics (PSE)</p>
+    <p class="entry-meta">Paris School of Economics (PSE) · <a href="mailto:david.margolis@psemail.eu">david.margolis@psemail.eu</a></p>
   </div>
 </div>
 
@@ -209,7 +201,7 @@ redirect_from:
   <div class="entry-side">Committee</div>
   <div>
     <p class="entry-title">Karen Macours</p>
-    <p class="entry-meta">Paris School of Economics (PSE)</p>
+    <p class="entry-meta">Paris School of Economics (PSE) · <a href="mailto:karen.macours@psemail.eu">karen.macours@psemail.eu</a></p>
   </div>
 </div>
 

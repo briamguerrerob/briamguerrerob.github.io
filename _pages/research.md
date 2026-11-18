@@ -77,7 +77,7 @@ author_profile: true
   <div class="entry-side">2022</div>
   <div>
     <p class="entry-title">Research Assistant</p>
-    <p class="entry-meta">International Monetary Fund (IMF) and Harvard Growth Lab</p>
+    <p class="entry-meta">International Monetary Fund (IMF) and Harvard's Growth Lab</p>
     <p class="entry-desc">Estimation of Taylor rules for a panel of Latin American countries.</p>
   </div>
 </div>

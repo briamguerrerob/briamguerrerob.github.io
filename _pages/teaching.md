@@ -94,7 +94,7 @@ author_profile: true
   <div>
     <p class="entry-title">Teaching Assistant and Substitute Professor</p>
     <p class="entry-meta">Instituto Tecnológico de Santo Domingo (INTEC) · Undergraduate and MSc courses</p>
-    <p class="entry-desc">Microeconomics I, Macroeconomics II, Financial Economics, Economic Development, Econometrics I and II, and Econometrics (MSc).</p>
+    <p class="entry-desc">Microeconomics I, Macroeconomics II, Financial Economics, Economic Development, Econometrics I and II, International Economics I, and Econometrics (MSc).</p>
   </div>
 </div>
 
