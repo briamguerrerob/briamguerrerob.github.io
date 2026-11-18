@@ -48,7 +48,7 @@ author_profile: true
   <div class="entry-side">2023</div>
   <div>
     <p class="entry-title">A Predictor-Corrector Interior Point Algorithm for the Optimization of Government Budget Revenue</p>
-    <p class="entry-meta">MSc thesis in Applied Mathematics, Santo Domingo Institute of Technology (INTEC)</p>
+    <p class="entry-meta">MSc thesis in Applied Mathematics, Instituto Tecnológico de Santo Domingo (INTEC)</p>
     <a class="entry-link" href="https://www.researchgate.net/publication/384359271_A_Predictor-Corrector_Interior_Point_Algorithm_for_the_Optimization_of_the_Government_Budget_Revenue" target="_blank">Thesis</a>
   </div>
 </div>
@@ -57,7 +57,7 @@ author_profile: true
   <div class="entry-side">2019</div>
   <div>
     <p class="entry-title">Determinants of Economic Growth in the Dominican Republic: A DSGE Approach</p>
-    <p class="entry-meta">BSc thesis in Economics, Santo Domingo Institute of Technology (INTEC)</p>
+    <p class="entry-meta">BSc thesis in Economics, Instituto Tecnológico de Santo Domingo (INTEC)</p>
     <a class="entry-link" href="https://www.researchgate.net/publication/384360359_Determinants_of_Economic_Growth_in_Developing_Countries_a_DSGE_approach" target="_blank">Thesis</a>
   </div>
 </div>
