@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I work as an Economist at the Central Bank of the Dominican Republic (BCRD) and as an Adjunct Professor at the Instituto Tecnológico de Santo Domingo (INTEC) and Pontificia Universidad Católica Madre y Maestra (PUCMM). My main research interests are Labor Economics, Development Economics, and Applied Econometrics.
+<div class="content-page" markdown="0">
 
-I graduated from the Paris School of Economics (PSE) with an MRes in Economics (M2 Recherche APE, 2025) and an MSc in Quantitative Economics (M1 APE, 2024). I also hold an MSc in Applied Mathematics (2023) and a BSc in Economics (2019) from the Instituto Tecnológico de Santo Domingo (INTEC).
+<p class="lead">I am a PhD candidate in economics at the Paris School of Economics (PSE) and a France Excellence Eiffel Doctoral Scholar. I work on labor and development economics, studying how skills shape occupational choice, informality, and labor-market segmentation in developing countries. My thesis committee consists of David N. Margolis (supervisor) and Karen Macours.</p>
 
-Previously, I worked as a Research Coordinator at the Grupo Privado por la Competitividad Nacional (GPCN) and as a Research and Development Specialist at Acción Empresarial por la Educación (EDUCA).
+<p class="lead">I teach economics at Sciences Po and at the Instituto Tecnológico de Santo Domingo (INTEC) in the Dominican Republic, where I also teach graduate courses in stochastic processes and financial risk for the MSc in Applied Mathematics. Before the PhD, I spent nearly seven years as an economist at the Central Bank of the Dominican Republic.</p>
+
+<p class="lead">I hold a two-year Research Master's in Economics (APE) from PSE, and an MSc in Applied Mathematics and a BSc in Economics from INTEC.</p>
+
+</div>

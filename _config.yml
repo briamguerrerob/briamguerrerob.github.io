@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Briam E. Guerrero-Batista"
 title_separator          : "-"
 name                     : &name "Briam E. Guerrero-Batista"
-description              : &description "Economist and Mathematician"
+description              : &description "PhD Candidate in Economics at the Paris School of Economics"
 url                      : https://briamguerrerob.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,9 +82,9 @@ yandex_site_verification :
 # Site Author
 author:
   name             : "Briam E. Guerrero-Batista"
-  avatar           : "prof_website.png"
-  bio              : "Economist and Mathematician | MRes Econ '25 (PSE), MSc Applied Math '23 and BSc Econ '19 (INTEC)"
-  location         : "Santo Domingo, Dom. Rep."
+  avatar           : "profile_circle.jpg"
+  bio              : "PhD Candidate in Economics, Paris School of Economics (PSE) | France Excellence Eiffel Doctoral Scholar"
+  location         : "Paris, France"
   employer         :
   googlescholar    : 
   email            : "bguerrerobatista@gmail.com"
@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - cv
 keep_files:
   - .git
   - .svn
@@ -173,22 +174,6 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
-
 # Defaults
 defaults:
   # _posts
@@ -209,41 +194,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-#  - scope:
-#      path: ""
-#      type: portfolio
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:

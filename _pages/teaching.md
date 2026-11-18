@@ -7,121 +7,112 @@ author_profile: true
 
 {% include base_path %}
 
-<style>
-  .teaching-page { max-width: 780px; }
+<div class="content-page">
 
-  .teaching-page h3.inst {
-    color: #003DA5;
-    font-weight: 700;
-    font-size: 15px;
-    margin: 1.6rem 0 0.2rem;
-  }
-  .teaching-page h3.inst:first-of-type { margin-top: 1.2rem; }
+<h3 class="group">Sciences Po, Paris</h3>
 
-  .course-row {
-    display: grid;
-    grid-template-columns: 118px 1fr;
-    gap: 1.2rem;
-    padding: 1.05rem 0;
-    border-bottom: 1px solid #eceff2;
-  }
-
-  .course-code {
-    font-weight: 700;
-    color: #374151;
-    font-size: 14px;
-    padding-top: 0.1rem;
-    letter-spacing: 0.01em;
-  }
-
-  .course-title {
-    font-weight: 700;
-    color: #1f2937;
-    font-size: 15px;
-    margin: 0 0 0.15rem;
-  }
-
-  .course-meta {
-    color: #6b7280;
-    font-size: 13px;
-    margin: 0 0 0.35rem;
-  }
-
-  .course-desc {
-    color: #374151;
-    font-size: 14px;
-    line-height: 1.55;
-    margin: 0;
-  }
-
-  @media (max-width: 600px) {
-    .course-row { grid-template-columns: 1fr; gap: 0.35rem; }
-  }
-</style>
-
-<div class="teaching-page">
-
-<h3 class="inst">Pontificia Universidad Católica Madre y Maestra (PUCMM)</h3>
-
-<div class="course-row">
-  <div class="course-code">ECO-232-T</div>
+<div class="entry-row">
+  <div class="entry-side">2BA21</div>
   <div>
-    <p class="course-title">Microeconomics I</p>
-    <p class="course-meta">Professor · 2025-2026, P3</p>
-    <p class="course-desc">Undergraduate course in intermediate microeconomics: consumer theory (preferences, utility, and constrained optimization), choice under uncertainty, consumer and producer surplus, and the theory of the firm under perfect competition.</p>
+    <p class="entry-title">Introduction to Economic Analysis</p>
+    <p class="entry-meta">Graduate · Fall 2026</p>
   </div>
 </div>
 
-<h3 class="inst">Instituto Tecnológico de Santo Domingo (INTEC)</h3>
-
-<div class="course-row">
-  <div class="course-code">ECO351</div>
+<div class="entry-row">
+  <div class="entry-side">2FA00</div>
   <div>
-    <p class="course-title">Microeconomics I</p>
-    <p class="course-meta">Professor · 2025-T4</p>
-    <p class="course-desc">Undergraduate course in consumer theory: budget constraint, preferences, utility, optimal choice, the Slutsky equation, revealed preference, intertemporal choice, uncertainty, and consumer surplus.</p>
+    <p class="entry-title">Managerial Economics</p>
+    <p class="entry-meta">Graduate · Fall 2026</p>
   </div>
 </div>
 
-<div class="course-row">
-  <div class="course-code">ECO304</div>
+<h3 class="group">Instituto Tecnológico de Santo Domingo (INTEC), Dominican Republic</h3>
+
+<div class="entry-row">
+  <div class="entry-side">CAMB523</div>
   <div>
-    <p class="course-title">Microeconomics II</p>
-    <p class="course-meta">Professor · 2025-T4, 2026-T1, 2026-T2</p>
-    <p class="course-desc">Undergraduate course in intermediate microeconomics: demand and revealed preference, the theory of the firm, competitive supply, monopoly, oligopoly, general equilibrium, game theory, externalities, and public goods.</p>
+    <p class="entry-title">Financial Risk Management and Real Options</p>
+    <p class="entry-meta">Graduate, MSc in Applied Mathematics · 2026-T4</p>
+    <p class="entry-desc">Pricing, hedging, and risk measurement of derivatives: a review of stochastic calculus, the Black-Scholes model, stochastic volatility and American options, exotic options, interest rates and bonds, and real options for investment decisions. Each result is implemented in Python.</p>
   </div>
 </div>
 
-<div class="course-row">
-  <div class="course-code">ECO305</div>
+<div class="entry-row">
+  <div class="entry-side">MMA509</div>
   <div>
-    <p class="course-title">Macroeconomics I</p>
-    <p class="course-meta">Professor · 2026-T2</p>
-    <p class="course-desc">Undergraduate course in macroeconomics: long-run growth (the Solow model, endogenous growth, and the neoclassical Ramsey model) and short-run fluctuations (IS-LM, the Phillips curve, and the IS-LM-PC model), with fiscal and monetary policy.</p>
+    <p class="entry-title">Stochastic Processes</p>
+    <p class="entry-meta">Graduate, MSc in Applied Mathematics · 2026-T3</p>
+    <p class="entry-desc">Markov chains, renewal processes, martingales, and Brownian motion, with applications to finance and risk.</p>
   </div>
 </div>
 
-<div class="course-row">
-  <div class="course-code">ECO306</div>
+<div class="entry-row">
+  <div class="entry-side">ECO304</div>
   <div>
-    <p class="course-title">Macroeconomics II</p>
-    <p class="course-meta">Professor · 2026-T1</p>
-    <p class="course-desc">Undergraduate course in modern business-cycle macroeconomics: DSGE methods, real business cycle theory, nominal rigidities, the New Keynesian model, and monetary and fiscal policy.</p>
+    <p class="entry-title">Microeconomics II</p>
+    <p class="entry-meta">Undergraduate · 2025-T4, 2026-T1, 2026-T2</p>
+    <p class="entry-desc">Intermediate microeconomics: demand and revealed preference, the theory of the firm, competitive supply, monopoly, oligopoly, general equilibrium, game theory, externalities, and public goods.</p>
   </div>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════
-     MASTER'S COURSE — add when ready. Same pattern; if it's a
-     different university, add a new heading first:
-     <h3 class="inst">University name</h3>
-     <div class="course-row">
-       <div class="course-code">CODE</div>
-       <div>
-         <p class="course-title">Course name</p>
-         <p class="course-meta">Professor · 2026-...</p>
-         <p class="course-desc">Graduate course in ...</p>
-       </div>
-     </div>
-════════════════════════════════════════════════════════════ -->
+<div class="entry-row">
+  <div class="entry-side">ECO351</div>
+  <div>
+    <p class="entry-title">Microeconomics I</p>
+    <p class="entry-meta">Undergraduate · 2025-T4</p>
+    <p class="entry-desc">Consumer theory: budget constraint, preferences, utility, optimal choice, the Slutsky equation, revealed preference, intertemporal choice, uncertainty, and consumer surplus.</p>
+  </div>
+</div>
+
+<div class="entry-row">
+  <div class="entry-side">ECO305</div>
+  <div>
+    <p class="entry-title">Macroeconomics I</p>
+    <p class="entry-meta">Undergraduate · 2026-T2</p>
+    <p class="entry-desc">Long-run growth (the Solow model, endogenous growth, and the Ramsey model) and short-run fluctuations (IS-LM, the Phillips curve, and the IS-LM-PC model), with fiscal and monetary policy.</p>
+  </div>
+</div>
+
+<div class="entry-row">
+  <div class="entry-side">ECO306</div>
+  <div>
+    <p class="entry-title">Macroeconomics II</p>
+    <p class="entry-meta">Undergraduate · 2026-T1</p>
+    <p class="entry-desc">Modern business-cycle macroeconomics: DSGE methods, real business cycle theory, nominal rigidities, the New Keynesian model, and monetary and fiscal policy.</p>
+  </div>
+</div>
+
+<h3 class="group">Pontificia Universidad Católica Madre y Maestra (PUCMM), Dominican Republic</h3>
+
+<div class="entry-row">
+  <div class="entry-side">ECO-232-T</div>
+  <div>
+    <p class="entry-title">Microeconomics I</p>
+    <p class="entry-meta">Undergraduate · 2025-2026, P3</p>
+    <p class="entry-desc">Intermediate microeconomics: consumer theory (preferences, utility, and constrained optimization), choice under uncertainty, consumer and producer surplus, and the theory of the firm under perfect competition.</p>
+  </div>
+</div>
+
+<h3 class="group">Earlier Teaching</h3>
+
+<div class="entry-row">
+  <div class="entry-side">2017-2021</div>
+  <div>
+    <p class="entry-title">Teaching Assistant and Substitute Professor</p>
+    <p class="entry-meta">INTEC · Undergraduate and MSc courses</p>
+    <p class="entry-desc">Microeconomics I, Macroeconomics II, Financial Economics, Economic Development, Econometrics I and II, and Econometrics (MSc).</p>
+  </div>
+</div>
+
+<div class="entry-row">
+  <div class="entry-side">2019</div>
+  <div>
+    <p class="entry-title">Undergraduate Thesis Advisor</p>
+    <p class="entry-meta">INTEC</p>
+    <p class="entry-desc">N. M. Tejada, <em>Economic Growth and Poverty Reduction in the Dominican Republic</em>.</p>
+    <a class="entry-link" href="https://opacbiblioteca.intec.edu.do/cgi-bin/koha/opac-detail.pl?biblionumber=195752" target="_blank">Library record</a>
+  </div>
+</div>
 
 </div>

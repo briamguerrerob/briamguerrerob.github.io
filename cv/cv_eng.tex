@@ -1,0 +1,507 @@
+\documentclass[a4paper,11pt]{article}
+
+% Package imports
+\usepackage{latexsym}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{ragged2e}
+\usepackage[empty]{fullpage}
+\usepackage{wrapfig}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{geometry}
+\usepackage{marvosym}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage{cfr-lm}
+\usepackage[T1]{fontenc}
+\usepackage{fontawesome5}
+
+% Color definitions
+\definecolor{darkblue}{RGB}{0,0,139}
+
+% Page layout
+\setlength{\multicolsep}{0pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\geometry{left=1.4cm, top=0.8cm, right=1.2cm, bottom=1cm}
+\setlength{\footskip}{5pt}
+
+% Hyperlinks
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=darkblue,
+    filecolor=darkblue,
+    urlcolor=darkblue,
+    pdftitle={Briam E. Guerrero-Batista - CV},
+    pdfauthor={Briam E. Guerrero-Batista},
+}
+
+\urlstyle{same}
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Section formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-7pt}]
+
+% Custom commands
+\newcommand{\resumeItem}[2]{
+  \item{
+    \textbf{#1}{\hspace{0.5mm}#2 \vspace{-0.5mm}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+\vspace{0.5mm}\item
+    \begin{tabular*}{0.98\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \textbf{#1} & \textit{\footnotesize{#4}} \\
+        \textit{\footnotesize{#3}} &  \footnotesize{#2}\\
+    \end{tabular*}
+    \vspace{-2.4mm}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1}{#2}\vspace{-4pt}}
+
+\renewcommand{\labelitemi}{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand{\labelitemii}{$\vcenter{\hbox{\tiny$\circ$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=*,labelsep=1mm]}
+\newcommand{\resumeHeadingSkillStart}{\begin{itemize}[leftmargin=*,itemsep=1.7mm, rightmargin=2ex]}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=*,labelsep=1mm,itemsep=0.5mm]}
+
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}\vspace{2mm}}
+\newcommand{\resumeHeadingSkillEnd}{\end{itemize}\vspace{-2mm}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-2mm}}
+
+% Icon sizing
+\newcommand{\socialicon}[1]{\raisebox{-0.05em}{\resizebox{!}{1em}{#1}}}
+
+\begin{document}
+\fontfamily{ppl}\selectfont
+
+% Header
+\begin{center}
+    {\Huge\textbf{Briam Eduardo GUERRERO BATISTA}}
+\end{center}
+\vspace{-6mm}
+
+\begin{center}
+    \small{
+    +33 7 44 78 41 74 | \href{mailto:bguerrerobatista@gmail.com}{bguerrerobatista@gmail.com} |
+    \href{https://briamguerrerob.github.io}{briamguerrerob.github.io}
+    }
+\end{center}
+\vspace{-6mm}
+
+\begin{center}
+    \small{
+    \socialicon{\faLinkedin} \href{https://www.linkedin.com/in/briam-guerrero/}{briam-guerrero} |
+    \socialicon{\faGithub} \href{https://github.com/briamguerrerob}{briamguerrerob} |
+    \socialicon{\faResearchgate} \href{https://www.researchgate.net/profile/Briam-Guerrero-2/research}{Briam Guerrero} |
+    \socialicon{\faTwitter} \href{https://x.com/GuerreroBatista}{GuerreroBatista}
+    }
+\end{center}
+\vspace{-6mm}
+\begin{center}
+\small{Paris School of Economics, 48 Boulevard Jourdan, 75014 Paris, France}
+\end{center}
+
+\vspace{-4mm}
+
+\section{\textbf{Education}}
+\vspace{-0.4mm}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Paris School of Economics (PSE)}{Paris, FR}
+{PhD in Economics (France Excellence Eiffel Doctoral Scholar)}{Sep. 2026 – Present}
+\footnotesize{\textit{Thesis committee: David N. Margolis (supervisor) and Karen Macours}}
+
+\normalsize
+\resumeSubheading
+{Paris School of Economics (PSE)}{Paris, FR}
+{Master of Research in Economics (M1 and M2 Recherche APE | 120 ECTS)}{June 2025}
+\footnotesize{\textit{Thesis Grade: 17/20, Highest Honors (Summa Cum Laude)}}
+
+\normalsize
+\resumeSubheading
+{Santo Domingo Institute of Technology (INTEC)}{Santo Domingo, DR}
+{Master of Science in Applied Mathematics (Highest GPA in the MSc in Applied Mathematics cohort)}{October 2023}
+
+\resumeSubheading
+{Santo Domingo Institute of Technology (INTEC)}{Santo Domingo, DR}
+{Bachelor of Science in Economics, Summa Cum Laude (Highest GPA in the BSc in Economics cohort)}{April 2019}
+
+\resumeSubHeadingListEnd
+\vspace{-6mm}
+
+\section{\textbf{Academic Experience}}
+\vspace{-0.4mm}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Sciences Po}{Paris, FR}
+{Adjunct Faculty}{Sep. 2026 – Present}
+\resumeItemListStart
+\item Courses: 2BA21 - Introduction to Economic Analysis (Fall 2026, Graduate) and 2FA00 - Managerial Economics (Fall 2026, Graduate)
+\resumeItemListEnd
+
+\resumeSubheading
+{Santo Domingo Institute of Technology (INTEC)}{Santo Domingo, DR}
+{Adjunct Professor}{Nov. 2025 – Present}
+\resumeItemListStart
+\item Graduate courses (MSc in Applied Mathematics): CAMB523 - Financial Risk Management and Real Options (2026-T4) and MMA509 - Stochastic Processes (2026-T3)
+\item Undergraduate courses: ECO304 - Microeconomics II (2025-T4, 2026-T1, 2026-T2), ECO351 - Microeconomics I (2025-T4), ECO306 - Macroeconomics II (2026-T1) and ECO305 - Macroeconomics I (2026-T2)
+\resumeItemListEnd
+
+\resumeSubheading
+{Pontificia Universidad Católica Madre y Maestra (PUCMM)}{Santo Domingo, DR}
+{Adjunct Professor}{Apr. 2026 – Aug. 2026}
+\resumeItemListStart
+\item Courses: ECO-232-T - Microeconomics I (2025-2026, P3)
+\resumeItemListEnd
+
+\resumeSubheading
+{Santo Domingo Institute of Technology (INTEC)}{Santo Domingo, DR}
+{Teaching Assistant and Substitute Professor}{2017 – 2021}
+\resumeItemListStart
+\item Courses: Microeconomics I (ECO303), Macroeconomics II (ECO306), Financial Economics (ECO327), Economic Development (ECO314), Econometrics I (ECO336), Econometrics II (ECO337) and Econometrics (MSc)
+\resumeItemListEnd
+
+\resumeSubheading
+{Santo Domingo Institute of Technology (INTEC)}{Santo Domingo, DR}
+{Research Thesis Advisor}{2019}
+\resumeItemListStart
+\item N. M. Tejada (2019). \href{https://opacbiblioteca.intec.edu.do/cgi-bin/koha/opac-detail.pl?biblionumber=195752}{"Economic Growth and Poverty Reduction in the Dominican Republic"}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+\vspace{-6mm}
+
+\section{\textbf{Professional Experience}}
+\vspace{-0.4mm}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+    {Nclusion}{Santo Domingo, DR}
+    {Research Consultant}{Aug. 2026 – Sep. 2026}
+    \resumeItemListStart
+    \item Applied research on community-based financial systems and pathways to formal financial inclusion: survey and qualitative research design, field testing, and coordination with local research partners
+    \resumeItemListEnd
+    \resumeSubheading
+    {Central Bank of the Dominican Republic}{Santo Domingo, DR}
+    {Senior Economist}{Nov. 2025 – Aug. 2026}
+    \resumeSubheading
+    {Central Bank of the Dominican Republic}{Santo Domingo, DR}
+    {Economist}{Sep. 2021 – Oct. 2025}
+    \resumeSubheading
+    {Central Bank of the Dominican Republic}{Santo Domingo, DR}
+    {Junior Economist}{Feb. 2020 – Sep. 2021}
+    \resumeSubheading
+    {Business Action for Education (EDUCA)}{Santo Domingo, DR}
+    {Research and Development Specialist}{Jun. 2019 – Jan. 2020}
+    \resumeSubheading
+    {Group for National Productivity and Competitiveness (GPCN)}{Santo Domingo, DR}
+    {Research Technical Coordinator}{Jun. 2019 – Jan. 2020}
+    \resumeSubheading
+    {Valumonics}{Santo Domingo, DR}
+    {Associate and Financial Analyst}{Sep. 2017 – May 2019}
+  \resumeSubHeadingListEnd
+\vspace{-6mm}
+
+\section{\textbf{Research Papers and Theses} \hfill \textcolor{darkblue}{\scriptsize PN=Policy Note, PP=Preprint, T=Thesis}}
+\vspace{0.2mm}
+\small{
+\begin{enumerate}[leftmargin=*, labelsep=0.5em, align=left, widest={[\textbf{S.1}]}, itemindent=0em, label={\textbf{[\arabic*]}]}]
+
+\item[\textbf{[T.3]}] B. Guerrero (2025). \href{https://www.researchgate.net/publication/397175486_The_Right_Skills_in_the_Wrong_Jobs_How_Multidimensional_Skill_Mismatch_Shapes_Occupational_Choice_and_Informality_in_Developing_Countries}{\textbf{The Right Skills in the Wrong Jobs: How Multidimensional Skill Mismatch Shapes Occupational Choice and Informality in Developing Countries}}. Paris School of Economics (PSE).
+
+\item[\textbf{[T.2]}] B. Guerrero (2023). \href{https://www.researchgate.net/publication/384359271_A_Predictor-Corrector_Interior_Point_Algorithm_for_the_Optimization_of_the_Government_Budget_Revenue}{\textbf{A Predictor-Corrector Interior Point Algorithm for the Optimization of the Government Budget Revenue}}. Department of Basic and Environmental Sciences, Santo Domingo Institute of Technology (INTEC).
+
+\item[\textbf{[PP.1]}] P. Acosta-Humánez, O. Bairan, J. Garcia, and B. Guerrero (2021). \href{https://www.researchgate.net/publication/376391779_Hamiltonian_of_the_Black-Scholes-Merton_equation}{\textbf{Hamiltonian of the Black-Scholes-Merton equation}}. Manuscript submitted for publication in \textit{Revista Matematica: Teoria y Aplicaciones. Universidad de Costa Rica}.
+
+\item[\textbf{[PN.1]}] B. Guerrero and M. Aquino (2020). \href{https://educa.org.do/2020/02/10/nota-de-trabajo-34-vulnerabilidades-del-programa-de-pensiones-y-jubilaciones-del-sistema-educativo-dominicano/}{\textbf{Vulnerabilities of the Pension and Retirement Program of the Dominican Education System}}. Policy note, \textit{Notas de Trabajo EDUCA}, \#34. EDUCA. Feb. 2020, Santo Domingo, DR.
+
+\item[\textbf{[T.1]}] B. Guerrero (2019). \href{https://www.researchgate.net/publication/384360359_Determinants_of_Economic_Growth_in_Developing_Countries_a_DSGE_approach}{\textbf{Determinants of Economic Growth in the Dominican Republic: a DSGE approach}}. Department of Economics and Business, Santo Domingo Institute of Technology (INTEC).
+\end{enumerate}
+}
+
+\section{\textbf{Research Experience}}
+\vspace{-0.4mm}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{International Monetary Fund (IMF) and Harvard's Growth Lab}{Remote}
+{Research Assistant}{May 2022 - June 2022}
+\resumeItemListStart
+\item Assisted Gon Huertas on estimating coefficients from the Taylor Rules of LATAM panel
+\resumeItemListEnd
+
+\resumeSubheading
+{General Comptroller of the Dominican Republic}{Santo Domingo, DR}
+{Methodological Consultant}{February 2022 - April 2022}
+\resumeItemListStart
+\item Developed a new methodology to get the present value of past contracts for an economic balance exercise.
+\resumeItemListEnd
+
+\resumeSubheading
+{Dominican Observatory of Public Policies, UASD}{Santo Domingo, DR}
+{Research Assistant}{October 2021 - May 2022}
+\resumeItemListStart
+\item Sustainability of Dominican Pension System
+\resumeItemListEnd
+
+\resumeSubheading
+{National Treasury of the Dominican Republic}{Santo Domingo, DR}
+{Technical Consultant}{August 2021 - January 2022}
+\resumeItemListStart
+\item Developed an econometric model for the forecast of tax revenues for a cash programming project guided by Mr. José Adrian Vargas Barrantes (former National Treasurer and Vice Minister of Finance of Costa Rica)
+\resumeItemListEnd
+
+\resumeSubheading
+{Group for National Productivity and Competitiveness (GPCN)}{Santo Domingo, DR}
+{Research Assistant}{2020}
+\resumeItemListStart
+\item Unique RA of the book \href{https://www.amazon.com/-/es/Xavier-Sala-i-Martin-ebook/dp/B087X9NB7G}{"Gazebo"} by Dr. Xavier Sala-i-Martin and Dr. Peter Prazmowski.
+\resumeItemListEnd
+
+\resumeSubheading
+{Business Action for Education (EDUCA)}{Santo Domingo, DR}
+{Research Assistant}{June 2019 - January 2020}
+\resumeItemListStart
+\item Evaluation of the quality, efficiency, and equity of public expenditure on education in the Dominican Republic
+\item Sustainability of the Special Pension and Retirement Program for Teachers in the Dominican Republic
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+\vspace{-5.9mm}
+\section{\textbf{Languages}}
+\vspace{-0.4mm}
+\small{
+\textbf{Spanish:} Native \\
+\textbf{English:} Advanced (full professional proficiency) \\
+\textbf{French:} Intermediate (limited working proficiency)
+}
+
+\section{\textbf{Skills}}
+\vspace{-0.4mm}
+ \resumeHeadingSkillStart
+  \resumeSubItem{Data Analysis:}
+    {R, Stata, Excel, VBA, Matlab, PowerBI, Octave, Eviews}
+  \resumeSubItem{Web Technologies:}
+    {HTML, JavaScript}
+  \resumeSubItem{Database Systems:}
+    {SQL}
+  \resumeSubItem{Document Preparation:}
+    {\LaTeX, Markdown, Jupyter}
+  \resumeSubItem{Version Control:}
+    {Git, GitHub}
+  \resumeSubItem{Data Science \& Machine Learning:}
+    {Python, Matplotlib, TensorFlow, Scikit-learn}
+  \resumeSubItem{Mathematical Tools:}
+    {Mathematica, Matlab, Octave}
+ \resumeHeadingSkillEnd
+
+\section{\textbf{Honors and Awards}}
+\vspace{-0.4mm}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{France Excellence Eiffel Doctoral Scholarship}{}
+{French Ministry for Europe and Foreign Affairs and Campus France}{2026 – 2029}
+
+\resumeSubheading
+{Scholarship for Master Studies in Economics}{}
+{Elected by Authorities of the Central Bank of the Dominican Republic}{2023}
+
+\resumeSubheading
+{Highest GPA, Applied Mathematics (MSc) Cohort}{}
+{Santo Domingo Institute of Technology (INTEC)}{2023}
+
+\resumeSubheading
+{Jury, NASA International Space Apps Challenge}{}
+{Dominican Republic Competition}{2022}
+
+\resumeSubheading
+{National Scholarship for Postgraduate Studies in Science}{}
+{Ministry of Higher Education, Science and Technology of Dominican Republic}{2020}
+
+\resumeSubheading
+{Highest GPA of 8,000 Scholarship Recipients Nationwide}{}
+{Ministry of Higher Education, Science and Technology of Dominican Republic}{2020}
+
+\resumeSubheading
+{Mentor, NASA International Space Apps Challenge}{}
+{Dominican Republic Competition}{2020}
+
+\resumeSubheading
+{Winner and Global Nominee, NASA International Space Apps Challenge}{}
+{Dominican Republic Competition}{2019}
+
+\resumeSubheading
+{Highest GPA, Economics (BSc) Cohort}{}
+{Santo Domingo Institute of Technology (INTEC)}{2019}
+
+\resumeSubHeadingListEnd
+\vspace{-6mm}
+
+\section{\textbf{Certifications}}
+\vspace{-0.4mm}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Financial Mathematics and Stochastic Calculus}{}
+{Center for Latin American Monetary Studies (CEMLA)}{2021}
+
+\resumeSubheading
+{National Accounts Statistics}{}
+{Regional Center for Technical Assistance for Central America, Panama and DR (CAPTAC-DR) of the IMF}{2021}
+
+\resumeSubheading
+{Big Data, Data Mining and Machine Learning}{}
+{Center for Latin American Monetary Studies (CEMLA)}{2021}
+
+\resumeSubheading
+{Diplomas in Data Science and Intermediate Programming}{}
+{Technological Institute of the Americas (ITLA)}{2020}
+
+\resumeSubheading
+{Macroeconometric Forecasting}{}
+{International Monetary Fund (IMF)}{2020}
+
+\resumeSubheading
+{Macroeconomic Accounts and Analysis}{}
+{International Monetary Fund (IMF)}{2020}
+
+\resumeSubheading
+{Diploma in Applied Econometrics with R}{}
+{Technological Institute of the Americas (ITLA)}{2019}
+
+\resumeSubheading
+{Microeconomics}{}
+{MIT (edX)}{2019}
+
+\resumeSubheading
+{Corporate Finance}{}
+{Columbia University (edX)}{2019}
+
+\resumeSubheading
+{Intermediate and Advanced R Courses}{}
+{DataCamp}{2019}
+
+\resumeSubheading
+{Advanced and Intermediate English Courses}{}
+{Dominican American Cultural Institute}{2017 – 2019}
+
+\resumeSubheading
+{Diploma in Applied Econometrics with Stata}{}
+{Foundation for the Advancement of Mathematics (FAMA)}{2017}
+
+\resumeSubHeadingListEnd
+\vspace{-5.4mm}
+
+\section{\textbf{Workshops}}
+\vspace{-0.4mm}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Microeconometrics Summer School: DiD with Panel Data with Prof. Jeff Wooldridge (1 ECTS)}{}
+{Barcelona School of Economics (BSE)}{July 2025}
+
+\resumeSubheading
+{Encounters in Econometric Theory}{}
+{Paris School of Economics (PSE)}{May 2025}
+
+\resumeSubheading
+{Nowcasting (Measurement in Economics, Nowcasting – Beyond GDP Chair)}{}
+{Paris School of Economics (PSE)}{January 2025}
+
+\resumeSubheading
+{Structural Changes and Their Implications for Macroeconomic Risks, Dynamics and Policies}{}
+{Paris School of Economics (PSE)}{October 2023}
+
+\resumeSubheading
+{Globalization, Shipping and Trade}{}
+{Paris School of Economics (PSE)}{October 2023}
+
+\resumeSubheading
+{Central Bank Macroeconomic Modeling}{}
+{Central Bank of Colombia}{November 2022}
+
+\resumeSubheading
+{Machine Learning and Causal Inference}{}
+{Prof. Brigham Frandsen, Brigham Young University. Mixtape Sessions by Scott Cunningham}{November 2022}
+
+\resumeSubheading
+{Instrumental Variables}{}
+{Prof. Peter Hull, Brown University. Mixtape Sessions by Scott Cunningham}{October 2022}
+
+\resumeSubHeadingListEnd
+\vspace{-6mm}
+
+\section{\textbf{Volunteer Experience}}
+\vspace{-0.4mm}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Coordinator, First Diploma in Real Analysis for Economists in the Dominican Republic}{}
+{Laboratory of Applied Mathematics, Santo Domingo Institute of Technology (INTEC)}{November 2022}
+
+\resumeSubheading
+{Member, PNC Dominican Republic ReLaCa Space}{}
+{Latin American and Caribbean Space Network}{October 2021 - Present}
+
+\resumeSubheading
+{Active Member, Rotaract INTEC University}{}
+{Santo Domingo Institute of Technology (INTEC) Community Service}{July 2022 - Present}
+
+\resumeSubheading
+{Member, Volunteer Program}{}
+{Central Bank of the Dominican Republic}{February 2020 - Present}
+
+\resumeSubheading
+{Director of Professional Development, Rotaract INTEC University}{}
+{Santo Domingo Institute of Technology (INTEC) Community Service}{July 2021 - June 2022}
+
+\resumeSubheading
+{Tutor on Topics of Differential Equations, Microeconomics, and Macroeconomics}{}
+{Scholarship Holders of Central Bank of the Dominican Republic}{August 2021 - December 2021}
+
+\resumeSubHeadingListEnd
+\vspace{-6mm}
+
+\section{\textbf{References}}
+\vspace{-0.4mm}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Dr. Pavel Isa Contreras}{+1 (809) 307-5848}
+{Research Professor, INTEC}{pavel.isa.contreras@gmail.com}
+
+\resumeSubheading
+{Dr. Peter Prazmowski}{+1 (829) 979-6550}
+{Executive Director, National Competitiveness Council (CNC)}{paprazmowski@gmail.com}
+
+\resumeSubheading
+{Dr. Jaime Aristy Escuder}{+1 (809) 223-4230}
+{Research Professor, INTEC/PUCMM}{jaimearisty@gmail.com}
+
+\resumeSubheading
+{Dr. Rolando Guzmán}{+1 (829) 717-9290}
+{Research Professor, INTEC}{rolando.guzman@intec.edu.do}
+
+\resumeSubheading
+{Prof. Apolinar Veloz}{+1 (703) 786-3616}
+{Researcher, Dominican Observatory of Public Policies (ODPP), UASD}{apolinar.veloz@gmail.com}
+
+\resumeSubHeadingListEnd
+
+\end{document}

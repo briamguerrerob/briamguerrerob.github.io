@@ -1,0 +1,131 @@
+/* ==========================================================================
+   Shared page styles: About, Research, Teaching and CV all use these.
+
+   Building blocks:
+     <div class="content-page">           wrapper
+     <p class="lead">                      intro paragraph
+     <h2 class="section">                  section heading with rule
+     <h3 class="group">                    blue sub-heading (e.g. institution)
+     <div class="entry-row">               two-column row
+       <div class="entry-side">            left column: date or course code
+       <div>
+         <p class="entry-title">           bold title
+         <p class="entry-meta">            grey line under the title
+         <p class="entry-desc">            description
+         <a class="entry-link">            small blue link
+   ========================================================================== */
+
+$ink: #1f2937;
+$ink-soft: #374151;
+$ink-muted: #6b7280;
+$accent: #404d83;   // navy sampled from the profile photo
+$rule: #d1d5db;
+$rule-soft: #eceff2;
+
+.content-page {
+  max-width: 780px;
+
+  .lead {
+    font-size: 15px;
+    line-height: 1.7;
+    color: $ink-soft;
+    margin: 0 0 1rem;
+  }
+
+  .lead:first-child { margin-top: 0.4rem; }
+
+  h2.section {
+    color: $ink;
+    font-weight: 700;
+    font-size: 19px;
+    margin: 2.4rem 0 0.2rem;
+    padding-bottom: 0.45rem;
+    border-bottom: 1px solid $rule;
+  }
+
+  h2.section:first-child { margin-top: 0.8rem; }
+
+  h3.group {
+    color: $accent;
+    font-weight: 700;
+    font-size: 15px;
+    margin: 1.6rem 0 0.2rem;
+  }
+
+  h2.section + h3.group { margin-top: 1rem; }
+
+  a { color: $accent; }
+}
+
+.content-page {
+  .entry-row {
+    display: grid;
+    grid-template-columns: 118px 1fr;
+    gap: 1.2rem;
+    padding: 1.05rem 0;
+    border-bottom: 1px solid $rule-soft;
+  }
+
+  .entry-side {
+    font-weight: 700;
+    color: $ink-soft;
+    font-size: 14px;
+    padding-top: 0.1rem;
+    letter-spacing: 0.01em;
+  }
+
+  .entry-title {
+    font-weight: 700;
+    color: $ink;
+    font-size: 15px;
+    line-height: 1.45;
+    margin: 0 0 0.15rem;
+  }
+
+  .entry-meta {
+    color: $ink-muted;
+    font-size: 13px;
+    line-height: 1.5;
+    margin: 0 0 0.35rem;
+  }
+
+  .entry-desc {
+    color: $ink-soft;
+    font-size: 14px;
+    line-height: 1.55;
+    margin: 0 0 0.3rem;
+  }
+
+  .entry-desc em { color: $ink; }
+
+  .entry-link {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 500;
+    color: $accent;
+    text-decoration: none;
+    margin: 0.1rem 1rem 0 0;
+
+    &:hover { text-decoration: underline; }
+  }
+
+  /* Download button (CV page) */
+  .btn-download {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff !important;
+    background: $accent;
+    border-radius: 6px;
+    padding: 0.55rem 1.1rem;
+    margin: 0.6rem 0 0.4rem;
+    text-decoration: none;
+
+    &:hover { background: mix(#000, $accent, 20%); text-decoration: none; }
+  }
+}
+
+@media (max-width: 600px) {
+  .content-page { max-width: 100%; }
+  .content-page .entry-row { grid-template-columns: 1fr; gap: 0.35rem; }
+}
