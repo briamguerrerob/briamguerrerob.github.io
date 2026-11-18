@@ -176,7 +176,7 @@ redirect_from:
 <div class="entry-row">
   <div class="entry-side">Languages</div>
   <div>
-    <p class="entry-desc">Spanish (native), English (advanced), French (limited working proficiency)</p>
+    <p class="entry-desc">Spanish (native), English (advanced), French (basic)</p>
   </div>
 </div>
 
@@ -190,7 +190,7 @@ redirect_from:
 <h2 class="section">References</h2>
 
 <div class="entry-row">
-  <div class="entry-side">Supervisor</div>
+  <div class="entry-side"></div>
   <div>
     <p class="entry-title">David N. Margolis</p>
     <p class="entry-meta">Paris School of Economics (PSE) · <a href="mailto:david.margolis@psemail.eu">david.margolis@psemail.eu</a></p>
@@ -198,7 +198,7 @@ redirect_from:
 </div>
 
 <div class="entry-row">
-  <div class="entry-side">Committee</div>
+  <div class="entry-side"></div>
   <div>
     <p class="entry-title">Karen Macours</p>
     <p class="entry-meta">Paris School of Economics (PSE) · <a href="mailto:karen.macours@psemail.eu">karen.macours@psemail.eu</a></p>
