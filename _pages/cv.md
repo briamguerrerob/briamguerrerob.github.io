@@ -64,7 +64,7 @@ redirect_from:
 <div class="entry-row">
   <div class="entry-side">2025-2027</div>
   <div>
-    <p class="entry-title">Adjunct Professor</p>
+    <p class="entry-title">Lecturer</p>
     <p class="entry-meta">Instituto Tecnológico de Santo Domingo (INTEC)</p>
   </div>
 </div>
@@ -72,7 +72,7 @@ redirect_from:
 <div class="entry-row">
   <div class="entry-side">2026</div>
   <div>
-    <p class="entry-title">Adjunct Professor</p>
+    <p class="entry-title">Lecturer</p>
     <p class="entry-meta">Pontificia Universidad Católica Madre y Maestra (PUCMM), Dominican Republic</p>
   </div>
 </div>
