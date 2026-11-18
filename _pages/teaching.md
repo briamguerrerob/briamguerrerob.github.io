@@ -27,7 +27,7 @@ author_profile: true
   </div>
 </div>
 
-<h3 class="group">Instituto Tecnológico de Santo Domingo (INTEC), Dominican Republic</h3>
+<h3 class="group">Santo Domingo Institute of Technology (INTEC), Dominican Republic</h3>
 
 <div class="entry-row">
   <div class="entry-side">CAMB523</div>
@@ -100,7 +100,7 @@ author_profile: true
   <div class="entry-side">2017-2021</div>
   <div>
     <p class="entry-title">Teaching Assistant and Substitute Professor</p>
-    <p class="entry-meta">INTEC · Undergraduate and MSc courses</p>
+    <p class="entry-meta">Santo Domingo Institute of Technology (INTEC) · Undergraduate and MSc courses</p>
     <p class="entry-desc">Microeconomics I, Macroeconomics II, Financial Economics, Economic Development, Econometrics I and II, and Econometrics (MSc).</p>
   </div>
 </div>
@@ -109,7 +109,7 @@ author_profile: true
   <div class="entry-side">2019</div>
   <div>
     <p class="entry-title">Undergraduate Thesis Advisor</p>
-    <p class="entry-meta">INTEC</p>
+    <p class="entry-meta">Santo Domingo Institute of Technology (INTEC)</p>
     <p class="entry-desc">N. M. Tejada, <em>Economic Growth and Poverty Reduction in the Dominican Republic</em>.</p>
     <a class="entry-link" href="https://opacbiblioteca.intec.edu.do/cgi-bin/koha/opac-detail.pl?biblionumber=195752" target="_blank">Library record</a>
   </div>

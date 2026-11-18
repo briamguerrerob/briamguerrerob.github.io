@@ -37,7 +37,7 @@ redirect_from:
   <div class="entry-side">2020-2023</div>
   <div>
     <p class="entry-title">MSc in Applied Mathematics</p>
-    <p class="entry-meta">Instituto Tecnológico de Santo Domingo (INTEC), Dominican Republic</p>
+    <p class="entry-meta">Santo Domingo Institute of Technology (INTEC), Dominican Republic</p>
     <p class="entry-desc">Highest GPA in the cohort.</p>
   </div>
 </div>
@@ -46,7 +46,7 @@ redirect_from:
   <div class="entry-side">2016-2019</div>
   <div>
     <p class="entry-title">BSc in Economics</p>
-    <p class="entry-meta">INTEC</p>
+    <p class="entry-meta">Santo Domingo Institute of Technology (INTEC)</p>
     <p class="entry-desc">Summa cum laude, highest GPA in the cohort.</p>
   </div>
 </div>
@@ -65,7 +65,7 @@ redirect_from:
   <div class="entry-side">Since 2025</div>
   <div>
     <p class="entry-title">Adjunct Professor</p>
-    <p class="entry-meta">INTEC</p>
+    <p class="entry-meta">Santo Domingo Institute of Technology (INTEC)</p>
   </div>
 </div>
 
@@ -81,7 +81,7 @@ redirect_from:
   <div class="entry-side">2017-2021</div>
   <div>
     <p class="entry-title">Teaching Assistant and Substitute Professor</p>
-    <p class="entry-meta">INTEC</p>
+    <p class="entry-meta">Santo Domingo Institute of Technology (INTEC)</p>
   </div>
 </div>
 
@@ -109,7 +109,7 @@ redirect_from:
   <div class="entry-side">2019-2020</div>
   <div>
     <p class="entry-title">Research and Development Specialist</p>
-    <p class="entry-meta">Acción Empresarial por la Educación (EDUCA)</p>
+    <p class="entry-meta">Business Action for Education (EDUCA)</p>
   </div>
 </div>
 
@@ -117,7 +117,7 @@ redirect_from:
   <div class="entry-side">2019-2020</div>
   <div>
     <p class="entry-title">Research Coordinator</p>
-    <p class="entry-meta">Grupo Privado para la Competitividad Nacional (GPCN)</p>
+    <p class="entry-meta">Group for National Productivity and Competitiveness (GPCN)</p>
   </div>
 </div>
 

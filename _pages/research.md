@@ -37,7 +37,7 @@ author_profile: true
   <div class="entry-side">2020</div>
   <div>
     <p class="entry-title">Vulnerabilities of the Pension and Retirement Program of the Dominican Educational System</p>
-    <p class="entry-meta">With Marygracia Aquino · Policy note, Acción Empresarial por la Educación (EDUCA), Nota de Trabajo No. 34</p>
+    <p class="entry-meta">With Marygracia Aquino · Policy note, Business Action for Education (EDUCA), Nota de Trabajo No. 34</p>
     <a class="entry-link" href="https://educa.org.do/wp-content/uploads/2017/07/Nota-de-Trabajo-No.-34.pdf" target="_blank">Policy note (in Spanish)</a>
   </div>
 </div>
@@ -48,7 +48,7 @@ author_profile: true
   <div class="entry-side">2023</div>
   <div>
     <p class="entry-title">A Predictor-Corrector Interior Point Algorithm for the Optimization of Government Budget Revenue</p>
-    <p class="entry-meta">MSc thesis in Applied Mathematics, Instituto Tecnológico de Santo Domingo (INTEC)</p>
+    <p class="entry-meta">MSc thesis in Applied Mathematics, Santo Domingo Institute of Technology (INTEC)</p>
     <a class="entry-link" href="https://www.researchgate.net/publication/384359271_A_Predictor-Corrector_Interior_Point_Algorithm_for_the_Optimization_of_the_Government_Budget_Revenue" target="_blank">Thesis</a>
   </div>
 </div>
@@ -57,7 +57,7 @@ author_profile: true
   <div class="entry-side">2019</div>
   <div>
     <p class="entry-title">Determinants of Economic Growth in the Dominican Republic: A DSGE Approach</p>
-    <p class="entry-meta">BSc thesis in Economics, INTEC</p>
+    <p class="entry-meta">BSc thesis in Economics, Santo Domingo Institute of Technology (INTEC)</p>
     <a class="entry-link" href="https://www.researchgate.net/publication/384360359_Determinants_of_Economic_Growth_in_Developing_Countries_a_DSGE_approach" target="_blank">Thesis</a>
   </div>
 </div>
@@ -86,7 +86,7 @@ author_profile: true
   <div class="entry-side">2021-2022</div>
   <div>
     <p class="entry-title">Research Assistant</p>
-    <p class="entry-meta">Dominican Observatory of Public Policy, Universidad Autónoma de Santo Domingo (UASD)</p>
+    <p class="entry-meta">Dominican Observatory of Public Policies (ODPP), Universidad Autónoma de Santo Domingo (UASD)</p>
     <p class="entry-desc">Sustainability of the Dominican pension system.</p>
   </div>
 </div>
@@ -95,7 +95,7 @@ author_profile: true
   <div class="entry-side">2019-2020</div>
   <div>
     <p class="entry-title">Research Assistant</p>
-    <p class="entry-meta">Grupo Privado para la Competitividad Nacional (GPCN)</p>
+    <p class="entry-meta">Group for National Productivity and Competitiveness (GPCN)</p>
     <p class="entry-desc">Research assistant for the book <em>Gazebo</em> by Xavier Sala-i-Martin and Peter Prazmowski: data, tables and figures, research and writing on selected topics, and review of the manuscript.</p>
     <a class="entry-link" href="https://www.amazon.com/dp/B087X9NB7G" target="_blank">About the book</a>
   </div>
@@ -105,7 +105,7 @@ author_profile: true
   <div class="entry-side">2019-2020</div>
   <div>
     <p class="entry-title">Research and Development Specialist</p>
-    <p class="entry-meta">Acción Empresarial por la Educación (EDUCA)</p>
+    <p class="entry-meta">Business Action for Education (EDUCA)</p>
     <p class="entry-desc">Quality, efficiency, and equity of public spending on education, and sustainability of the teachers' pension program in the Dominican Republic.</p>
   </div>
 </div>
