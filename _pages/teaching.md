@@ -34,7 +34,6 @@ author_profile: true
   <div>
     <p class="entry-title">Stochastic Models in Mathematical Finance</p>
     <p class="entry-meta">Graduate, MSc in Applied Mathematics · 2026-T4</p>
-    <p class="entry-desc">Pricing, hedging, and risk measurement of derivatives: a review of stochastic calculus, the Black-Scholes model, stochastic volatility and American options, exotic options, interest rates and bonds, and real options for investment decisions. Each result is implemented in Python.</p>
   </div>
 </div>
 
@@ -43,7 +42,6 @@ author_profile: true
   <div>
     <p class="entry-title">Stochastic Processes</p>
     <p class="entry-meta">Graduate, MSc in Applied Mathematics · 2026-T3</p>
-    <p class="entry-desc">Random walks, discrete- and continuous-time Markov chains (including MCMC), Poisson and renewal processes, martingales and the binomial pricing model, and Brownian motion with an introduction to Itô calculus, applied to quantitative finance and implemented in Python.</p>
   </div>
 </div>
 
@@ -52,7 +50,6 @@ author_profile: true
   <div>
     <p class="entry-title">Microeconomics II</p>
     <p class="entry-meta">Undergraduate · 2025-T4, 2026-T1, 2026-T2</p>
-    <p class="entry-desc">Intermediate microeconomics: demand and revealed preference, the theory of the firm, competitive supply, monopoly, oligopoly, general equilibrium, game theory, externalities, and public goods.</p>
   </div>
 </div>
 
@@ -61,7 +58,6 @@ author_profile: true
   <div>
     <p class="entry-title">Microeconomics I</p>
     <p class="entry-meta">Undergraduate · 2025-T4</p>
-    <p class="entry-desc">Consumer theory: budget constraint, preferences, utility, optimal choice, the Slutsky equation, revealed preference, intertemporal choice, uncertainty, and consumer surplus.</p>
   </div>
 </div>
 
@@ -70,7 +66,6 @@ author_profile: true
   <div>
     <p class="entry-title">Macroeconomics I</p>
     <p class="entry-meta">Undergraduate · 2026-T2</p>
-    <p class="entry-desc">Macroeconomic measurement, long-run growth (the Solow model, endogenous growth, and the Ramsey model) and short-run fluctuations in closed and open economies (IS-LM, the Phillips curve, and the IS-LM-PC model), with fiscal and monetary policy.</p>
   </div>
 </div>
 
@@ -79,7 +74,6 @@ author_profile: true
   <div>
     <p class="entry-title">Macroeconomics II</p>
     <p class="entry-meta">Undergraduate · 2026-T1</p>
-    <p class="entry-desc">Modern business-cycle macroeconomics: DSGE methods, real business cycle theory, nominal rigidities, the New Keynesian model, and monetary and fiscal policy.</p>
   </div>
 </div>
 
@@ -90,7 +84,6 @@ author_profile: true
   <div>
     <p class="entry-title">Microeconomics I</p>
     <p class="entry-meta">Undergraduate · 2025-2026, P3</p>
-    <p class="entry-desc">Intermediate microeconomics: consumer theory (preferences, utility, and constrained optimization), choice under uncertainty, consumer and producer surplus, and the theory of the firm under perfect competition.</p>
   </div>
 </div>
 
