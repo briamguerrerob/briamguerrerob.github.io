@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "PhD Candidate in Economics, Paris School of Economics (PSE)"
+og_title: "Briam E. Guerrero-Batista"
 author_profile: true
 redirect_from: 
   - /about/
