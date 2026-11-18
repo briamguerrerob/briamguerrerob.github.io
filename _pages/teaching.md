@@ -30,9 +30,9 @@ author_profile: true
 <h3 class="group">Santo Domingo Institute of Technology (INTEC), Dominican Republic</h3>
 
 <div class="entry-row">
-  <div class="entry-side">CAMB523</div>
+  <div class="entry-side">MMA523</div>
   <div>
-    <p class="entry-title">Financial Risk Management and Real Options</p>
+    <p class="entry-title">Stochastic Models in Mathematical Finance</p>
     <p class="entry-meta">Graduate, MSc in Applied Mathematics · 2026-T4</p>
     <p class="entry-desc">Pricing, hedging, and risk measurement of derivatives: a review of stochastic calculus, the Black-Scholes model, stochastic volatility and American options, exotic options, interest rates and bonds, and real options for investment decisions. Each result is implemented in Python.</p>
   </div>
